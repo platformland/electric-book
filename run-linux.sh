@@ -249,9 +249,9 @@ You may need to reload the web page once this server is running."
 			# ...and run Jekyll
 			if [ "$baseurl" = "" ]
 				then
-				bundle exec jekyll serve --config="_config.yml,_configs/_config.web.yml,$config" --baseurl=""
+				bundle exec jekyll serve --config="_config.yml,_configs/_config.web.yml,$config" --baseurl="" --host=0.0.0.0
 			else
-				bundle exec jekyll serve --config="_config.yml,_configs/_config.web.yml,$config" --baseurl="/$baseurl"
+				bundle exec jekyll serve --config="_config.yml,_configs/_config.web.yml,$config" --baseurl="/$baseurl" --host=0.0.0.0
 			fi
 			# Ask the user if they want to rebuild the site
 			# TO DO: Not sure this works because Jekyll owns the terminal and Ctrl+C will kill it entirely?
