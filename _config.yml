@@ -43,7 +43,7 @@ canonical-url: "https://electricbookworks.github.io/electric-book"
 # the name of your repo, e.g. /electric-book
 # It must start with a slash. Otherwise you can leave it blank. See:
 # http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
-baseurl: "/electric-book"
+baseurl: "/playbook"
 
 # GitHub Pages repository
 # -----------------------
@@ -52,7 +52,7 @@ baseurl: "/electric-book"
 # add username/repository here and uncomment/enable
 # gem 'github-pages', group: :jekyll_plugins
 # in this project's Gemfile.
-repository: ""
+repository: "platformland/playbook"
 
 # Navigation
 # ----------

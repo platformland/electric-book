@@ -9,7 +9,7 @@ gem 'jekyll', '~>3.8.4'
 # but this injects unwanted files: https://github.com/github/pages-gem/issues/482
 # Uncomment the following line (and comment out the Jekyll version above)
 # to use this gem, e.g. to test how your site will build on GitHub Pages.
-# gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
 
 # This is highly recommended if your team uses Windows.
 gem 'wdm', '>= 0.1.1' if Gem.win_platform?
