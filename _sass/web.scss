@@ -28,10 +28,10 @@ $max-width-default: 40em !default;
 // - 'display' fonts are used for headings and similar short-string features.
 // For each category, we set a main font and a secondary font, allowing up to four fonts.
 // Finally, we set a fifth, monospace font for elements like computer code.
-$font-text-main: "Crimson", serif !default;
+$font-text-main: "Muli", sans-serif !default;
 $font-text-secondary: "Source Sans Pro", sans-serif !default;
-$font-display-main: "Source Sans Pro", sans-serif !default;
-$font-display-secondary: "Crimson", serif !default;
+$font-display-main: "Open Sans Condensed", sans-serif !default;
+$font-display-secondary: "Muli", sans-serif !default;
 $font-code: "Ubuntu Mono", monospace !default;
 
 // Set font size and line-height in ems or px.

@@ -32,10 +32,10 @@ $max-width-default: 40em;
 // - 'display' fonts are used for headings and similar short-string features.
 // For each category, we set a main font and a secondary font, allowing up to four fonts.
 // Finally, we set a fifth, monospace font for elements like computer code.
-$font-text-main: "Crimson", serif;
-$font-text-secondary: "Source Sans Pro", sans-serif;
-$font-display-main: "Source Sans Pro", sans-serif;
-$font-display-secondary: "Crimson", serif;
+$font-text-main: "Muli", sans-serif;
+$font-text-secondary: "Muli", sans-serif;
+$font-display-main: "Open Sans Condensed", sans-serif;
+$font-display-secondary: "Muli", sans-serif;
 $font-code: "Ubuntu Mono", monospace;
 
 // Set font size and line-height in ems or px.
@@ -60,10 +60,10 @@ $rule-thickness: 1px;
 $color-text-main: #222222;
 $color-text-secondary: #222222;
 $color-background: white;
-$color-light: #e0e0e0;
+$color-light: #fff;
 $color-mid: #9c9c9c;
 $color-accent: #2a3046;
-$color-links: #5f738c;
+$color-links: #2a3046;
 $color-buttons: $color-accent;
 $color-buttons-hover: darken( $color-buttons, 20% );
 $color-highlight: #ffd54d;
@@ -99,13 +99,13 @@ $text-divider: ""; // Empty leaves space. \2022 is a bullet
 
 // Footer
 $footer-text-color: $color-text-main;
-$footer-background-color: $color-accent;
-$footer-border-color: $color-accent;
+$footer-background-color: $color-light;
+$footer-border-color: $color-light;
 
 // Website masthead
 $masthead-text-color: $color-light;
 $masthead-background-color: $color-accent;
-$masthead-border-color: $color-light;
+$masthead-border-color: $color-accent;
 $masthead-breadcrumb-divider: "\2044"; // 2044 is a fraction slash
 
 // Website sidebar/navigation
@@ -225,6 +225,36 @@ $web-reset-sequences: true; // This should stay last in the @import list
 // Add the actual font files to `../fonts`
 // For snippets, try https://github.com/arthurattwell/font-faces
 
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans/OpenSansCondensed-Light.ttf);
+}
+@font-face {
+  font-family: "Open Sans Condensed";
+  src: url(../fonts/OpenSans/OpenSansCondensed-Bold.ttf);
+  font-weight: bold;
+}
+  @font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans/OpenSansCondensed-LightItalic.ttf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Muli";
+    src: url(../fonts/Muli/Muli-Light.ttf);
+}
+@font-face {
+  font-family: "Muli";
+  src: url(../fonts/Muli/Muli-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Muli";
+  src: url(../fonts/Muli/Muli-LightItalic.ttf);
+  font-style: italic;
+}
+
 // -------------
 // Master theme
 // -------------
@@ -237,4 +267,17 @@ $web-reset-sequences: true; // This should stay last in the @import list
 // -------------
 
 // Add any custom Sass or CSS here.
+.masthead-book-title, #nav h2 {
+  font-family:"Open Sans Condensed", sans-serif;
+  font-weight:bold;
+}
+.title-page-subtitle, .title-page-author {
+  font-family:'Muli', sans-serif;
+  font-weight:normal;
+}
+
+h1, .title-page-title, .masthead-book-title, #nav h2 {
+  text-transform:uppercase;
+}
+
 

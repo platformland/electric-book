@@ -11,7 +11,7 @@ project:
   # The default contact email address
   email: "richard_pope@hks.harvard.edu"
   # The name of the project of books in this folder.
-  name: "Platform Land"
+  name: "Platform playbook"
   # A one-liner about this project. Useful for Open Graph metadata.
   description: "A description goes here"
   # The logo of the organisation, saved web-ready in /assets
@@ -39,7 +39,7 @@ project:
 
 works:
   - directory: "book"
-    title: "Government as a Platform Playbook"
+    title: "Government Platforms Playbook"
     subtitle: ""
     creator: "Richard Pope" # E.g. the author
     contributor: "" # E.g. other contributors
@@ -55,7 +55,7 @@ works:
     language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
     relation: "" # e.g. other edition ISBN
     coverage: "" # e.g. geographic place or chronological time span
-    rights: "All rights reserved. No part of this book may be reproduced or transmitted in any form or by any electronic or mechanical means, including photocopying and recording, or any other information storage or retrieval system, without written permission from the publisher." # e.g. a copyright statement
+    rights: "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this licence visit https://creativecommons.org/licenses/by-sa/4.0/" # e.g. a copyright statement
     image: "cover.jpg"
     products: # Metadata for each product for this title (only use values that override parent metadata)
       print-pdf: 
