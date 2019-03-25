@@ -279,5 +279,8 @@ $web-reset-sequences: true; // This should stay last in the @import list
 h1, .title-page-title, .masthead-book-title, #nav h2 {
   text-transform:uppercase;
 }
+.box {
+  Border:solid;
+}
 
 
