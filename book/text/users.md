@@ -52,6 +52,6 @@ There will also be actors who wish to misuse the platform or the data it holds. 
 * Work in the open - maintain good communications with your users so you understand how they are using the platform and they understand any upcoming changes
 * Work to understand the roadmaps of any large services making use of your platform
 * Use analytics to understand new and emerging use-cases for the platform
-
+ 
 
 
