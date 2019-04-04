@@ -90,6 +90,7 @@ works:
           - "0-1-titlepage"
           - "0-2-copyright"
           - "0-3-contents"
+          - "introduction"
           - "users"
           - "good-platform"
           - "identify-platforms"
