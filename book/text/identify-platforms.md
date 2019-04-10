@@ -12,7 +12,7 @@ Platforms solve problems once and meet the common needs of different users, rath
 
 ## Common needs and duplication
 
-In the UK GDS conducted 150 interviews with teams across government with the aim of understanding their common needs. It led GDS to understand they should prioritize a form building platform over one that, for example, accepted payments from the public, because more services needed it.
+In the UK, GDS conducted 150 interviews with teams across government with the aim of understanding their common needs. It led GDS to understand they should prioritize a form building platform over one that, for example, accepted payments from the public, because more services needed it.
 
 Other approaches include:
 
