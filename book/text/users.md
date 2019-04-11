@@ -7,7 +7,7 @@ Platforms are used as building blocks to offer services to the public. The prima
 
 As such, your team may not have any direct relationship with end-users. However, this does not mean you do not have users. Some user-types it is essential to consider when designing platforms include:
 
-* **Developers** wanting to integrate with your platforms quickly and easily. They may work as part of teams in another part of the government, another their of government or in the private sector
+* **Developers** wanting to integrate with your platforms quickly and easily. They may work as part of teams in another part of the government, another tier of government (e.g. local government) or in the private sector
 * **Designers** of a service who may need to understand how your platform will fit into a broader service design, or include it in prototypes they are testing
 * **Procurement managers** who need to know how any contractual or financial arrangements work (although hopefully, you will have minimized these)
 * **Administrators** who might need to manage the use of the platform, such as viewing usage reports or changing their settings
@@ -29,7 +29,7 @@ It is in the nature of a 'true' platform that you don't know exactly how people 
 There will also be actors who wish to misuse the platform or the data it holds. It is important to understand their potential motivations and design against them.
 
 >### Identifying users of Government as a Platform in the UK
->Many of us joined GDS to work directly on things which matter to users. We realised that, organisationally, our job had shifted to meeting the needs of other civil servants, so that they can meet the needs of their users and, as a consequence of that, public services improve and the quality of people's experience of the state is transformed.
+>Many of us joined the Government Digital Service to work directly on things which matter to users. We realized that, organizationally, our job had shifted to meeting the needs of other civil servants, so that they can meet the needs of their users and, as a consequence of that, public services improve and the quality of people's experience of the state is transformed.
 >
 >Citizens are not the only valid users – even GOV.UK itself has a huge number of civil servant users who are using it as a publishing tool.
 >
@@ -49,7 +49,7 @@ There will also be actors who wish to misuse the platform or the data it holds. 
 * Do joint user research with the teams who are using the platform to understand the user-facing parts
 * Understand the things your team might need to operate the platform
 * Maintain a list of “anti-users”
-* Work in the open - maintain good communications with your users so you understand how they are using the platform and they understand any upcoming changes
+* Work in the open - maintain good communications with your users so you understand how they are using the platform and ensure they understand any upcoming changes
 * Work to understand the roadmaps of any large services making use of your platform
 * Use analytics to understand new and emerging use-cases for the platform
  
