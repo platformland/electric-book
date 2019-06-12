@@ -1,8 +1,39 @@
----
-title: "Getting adoption"
----
+# Adoption
 
-# Getting adoption
+While designing for self service is probably the most important thing you can do encourage people to use it, it is not the only factor. At different stages in the adoption of a platform, you may need to employ additional approaches. Ensuring that early adopters become evangelists, learning to say 'no', and the right type of mandates all play a part.
 
+## 1. Use early adopters to demonstrate capability and build trust
 
+While the aim should be to design for self-service, there will still be a first user. You will probably find more enthusiasm for teams looking to be the second or third (once they can point to the fact someone else is using it). As such, give the 1st user 'VIP treatment', co-locating with them if necessary. 
 
+Map out how you will make your team available to support and address the concerns of the first user.
+
+Once a platform or register has been adopted by one team in an organization, it is likely that others will adopt it too. This is partly because of trust, and partly because any contractural problems will likely have been solved.
+
+Be open about what you are learning through user research and observing usage. Blog and talk about it so other teams know this. If you are able to, publish your roadmap in the open too.
+
+## 2. Do 'sales'
+
+Be open and transparent about costs to the government users of the platform. Help them understand the unit costs and that those costs will come down as more government services use the platform. Do this even if they are not directly paying for the service (as it will help them understand the cost if that happens in the future).
+
+Explain how it will make the lives of public servants easier as well as the lives of citizens. Be clear and confident about the value that you are delivering in terms of savings and usage. E.g. It's going to ‘save this much time’ or ‘it's going to be this much more valuable in terms of marginal costs’ or ‘your integration costs are going to be lower’. [^1]
+
+Showing a working prototype that uses platforms is worth a million slick sales presentations.
+
+## 3. Understand the risks of high-volume users early on
+
+There are both risks and opportunities around trying to get a platform adopted by high profile services, especially early on in its development. While it might secure the future of the platform or give credibility, it can also risk being tightly coupled with the demands of one use case. They may also have demands around scale and robustness that it might be hard to satisfy at the alpha stage.
+
+Don't be afraid to say no to feature requests, even from big users, if thney are not meeting a need that you have identified as common for other users.
+
+## 4. Mandate the right thing (and only once it works)
+
+While the aim should always be to design platfroms that clearly meet a the needs of users and are so good they want to use it, there is a role for mandates. They key appears to be getting the level of the mandate right. 
+
+At Google, for example, things that are mandated are really high-level, rather than day-to-day - everything rolls-up to a higher objective.[^2] And Estonia didn't mandate X-Road, they mandated the principle of 'tell us once' (and only once X-Road had proved itself).[^3]
+
+[^1]:   Citation needed
+
+[^2]:   Interview, Dr Adam Connors, Senior Google Engineering Manager
+
+[^3]:   Citation needed

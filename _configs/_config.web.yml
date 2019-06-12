@@ -3,4 +3,4 @@ output: "web"
 # Set site.image-set == "images/web"
 image-set: "images/web"
 
-incremental: true
+incremental: false
