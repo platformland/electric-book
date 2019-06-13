@@ -1,19 +1,19 @@
 # Measuring and monitoring
 
-Because the primary users of a platform tend not to be the public themselves, but rather the people and organizations who use them to create services for the public, platform teams need to understand both what _they_ need to measure to operate the platform, and what their _users_ need to provide services to the public. Ultimately, the success of a platform will be perceived by the success of those services, not the platform itself.
+Because the primary users of a platform tend not to be the public themselves, but rather the people who use them to create services for the public, platform teams need to understand both what _they_ need to measure to operate the platform, and what their _users_ need to provide services to the public. Ultimately, the success of a platform will be perceived by the success of those services, not the platform itself.
 
 ## 1. Understand what data the your team need
 
-The team operating the platform should have clear a set of needs that relate to the operation and improvement of the platform. These may include some of the following:
+The team operating the platform will have clear a set of needs that relate to the operation and improvement of the platform. These may include some of the following:
 
 * Are people self-serving? (For example what's the ratio of meetings to users?)
 * Are people using the documentation?
 * What code libraries are being used?
-* Where are users (central government, local government, private sector?)
+* Where are the users (central government, local government, private sector?)
 * How many distinct services and organizations are using the platform?
-* What is the service uptime?
+* What is the service up-time?
 
-Ultimately, the best way to understand the need of the team will be through user research.
+If you are operating a platform, conduct user research with your team and understand what data they need to do their job effectively.
 
 ## 2. Understand what data your users need
 

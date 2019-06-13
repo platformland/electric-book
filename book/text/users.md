@@ -43,7 +43,7 @@ The key thing to understand is that this is a strategic decision that can be mad
 > ### Example: Identifying users of Government as a Platform in the UK
 > 
 > **In the UK, much of the early work of the Government Digital Service had been focused on projects with significant public-facing elements. As the organization began to focus more explicitly on platforms, it had to change how it thought about users:**
-
+>
 > "Many of us joined the Government Digital Service to work directly on things which matter to users. We realized that, organizationally, our job had shifted to meeting the needs of other civil servants, so that they can meet the needs of their users and, as a consequence of that, public services improve and the quality of people's experience of the state is transformed."
 > 
 > "Citizens are not the only valid users – even GOV.UK itself has a huge number of civil servant users who are using it as a publishing tool."

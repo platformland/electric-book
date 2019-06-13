@@ -4,17 +4,17 @@ In any multidisciplinary field, definitions and terminology have a tendency to c
 
 In this book, the following definitions are used:
 
-##### Services / public facing services
+##### Services
 
-Public-facing services allow citizens or their representatives to achieve a desired outcome. With appropriate governance, services can be provided by any layer of government, and by commercial or third sector organizations. Services are the things built on top of platforms.
+Public-facing services allow citizens or their representatives to achieve a desired outcome. With appropriate governance, services can be provided by any layer of government, and by commercial or third sector organizations. Services are the things that are built on top of platforms.
 
 ##### Digital proofs
 
-The term _digital proofs_ is used to cover the various different ways that someone can prove a fact (for example that they are entitled to a free prescription). This includes cryptographically signed facts, one-use codes and barcodes that can be used to verify a fact online.
+The term _digital proofs_ is used to cover the various different ways that someone can prove a fact (for example that they are entitled to a free prescription). This includes cryptographically signed data, and one-use codes or barcodes that can be used to verify a fact online.
 
 ##### Government as a Platform
 
-The term 'Government as a Platform' is used to refer to the whole ecosystem of shared APIs and components, open-standards and canonical datasets, as well as the services built on top of them and governance processes that keep the wider system safe and accountable.
+The term 'Government as a Platform' is used to refer to the whole ecosystem of shared APIs and components, open-standards and canonical datasets, as well as the services built on top of them and governance processes that (hopefully) keep the wider system safe and accountable.
 
 ##### Shared APIs
 
@@ -26,7 +26,7 @@ The term _platform_ is used in the generic sense to refer to any shared API, sha
 
 ##### Registers
 
-Registers are canonical datasets that are used and trusted across government and beyond. For example, a single list of postal addresses or a single list of registered companies. They expose the data via APIs to agreed standards and have appropriate governance and ownership in place.
+Registers are canonical datasets that are used and trusted across government and beyond. For example, a single list of postal addresses or a single list of registered companies. They expose the data via APIs to agreed open-standards and have appropriate governance and ownership in place.
 
 ##### Shared components
 

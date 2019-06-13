@@ -4,4 +4,3 @@ This book was written as part of a fellowship at the digitalHKS initiative at th
 
 Thanks to the following people for their contributions:
 
-Matt Sheret, Ben Welby, Pete Herlihy, Will Myddelton, Amy Hupe, Adam Connors ... ... ... ... ...

@@ -4,11 +4,9 @@ For a platform to serve all its potential users it needs to be usable without di
 
 ## 1. Create landing pages for each platform
 
-Firstly, your users need to be aware of the platform. You can't know who all your potential users might be - they might be in another part of your organization, in another government agency or outside of government altogether (for example a startup developing a new product).
+You can't know who all your potential users might be - they might be in another part of your organization, in another government agency or outside of government altogether (for example a startup developing a new product). So, firstly, your users need to be aware of the platform. Then, if they are aware of it, it is likely that many will ask the same questions, things like "where are you hosted?", "is it secure?", "is there a Python library?".
 
-If they are aware of it, it is also likely that they will ask the same questions, things like "where are you hosted?", "is it secure?", "is there a Python library?".
-
-Many digital service units are creating public webpages for their platforms to help users discover them and understand how they work. Australia, Canada and France have public API stores that list APIs that are available to build on. [^1] [^2] [^3]  While units in the UK, USA, Italy and India have all created landing pages for their shared components. [^4] [^5] [^6]
+Many digital service units are creating public landing pages for their platforms to help users discover them and understand how they work. Australia, Canada and France have public API stores that list APIs that are available to build on. [^1] [^2] [^3]  While units in the UK, USA, Italy and India have all created landing pages for their shared components. [^4] [^5] [^6]
 
 Create a public landing page for each component, API or register that lists key information about the platform. Keep a record of questions that people are regularly asking, such as average uptime, and aim to answer them on the landing page (not hidden elsewhere on an FAQ page).
 

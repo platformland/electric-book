@@ -4,11 +4,9 @@ Because of changing user behaviour and evolving privacy and security risks, plat
 
 ## 1. Create standing teams to develop and operate new platforms
 
-Bugs are a fact of life, as are malicious attacks. It’s also a side effect of a successful platform that it’s hard to know exactly how users will make use of it, meaning both user-behaviour and risks will change over time. For these reasons, a multidisciplinary team who are incentivized to improve the platform and respond to risks continuously is the preferred approach to the development of new platforms. (Even in situations where some element of the platform is outsourced, you will still need to maintain the expertise in-house to monitor and audit.)
+Bugs are a fact of life, as are malicious attacks. It’s also a side effect of a successful platform that it’s hard to know exactly how users will make use of it. This means both user-behaviour and risks will change over time. For these reasons, a multidisciplinary team who are incentivized to improve the platform and respond to risks continuously is the preferred approach to the development of new platforms. (Even in situations where some element of the platform is outsourced, you will still need to maintain the expertise in-house to monitor and audit.)
 
-These teams do not need to be large, but they do need to be invested in the long-term health of the platform.
-
-Android, for example, has a small, very senior team. The lead developer for the Android platform, which powers 2.5 billion active devices worldwide, has a few dozen people on her team. The core framework team is an even smaller group of people, and many of them have been there since the beginning.[^1]
+These teams do not need to be large, but they do need to be invested in the long-term health of the platform. Android, for example, has a small, very senior team. The lead developer for the Android platform, which powers 2.5 billion active devices worldwide, has a few dozen people on her team. The core framework team is an even smaller group of people, and many of them have been there since the beginning.[^1]
 
 ## 2. Fund teams for the long-term
 
@@ -26,7 +24,7 @@ In the long run, such issues may not make for a very good operating model. In th
 
 ##  4. Fund emergent platforms
 
-While the need for some platforms may be more obvious, and the funding easier to secure (for example, hosting or payments meet clear needs for multiple services), some needs will be more emergent.
+While the need for some platforms may be more obvious, and therefore the funding potentially easier to secure (for example, hosting or payments meet clear needs for multiple services), some needs will be more emergent.
 
 As previously discussed (see 'Identifying platforms'), 'point solutions' developed from within product teams, with the potential for broader use will need support and funding made available to support them.
 
