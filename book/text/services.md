@@ -56,6 +56,18 @@ A different approach is to design services that both respond to events, and make
 
 Look for opportunities to use APIs and registers to design services that proactively meet the needs of users.
 
+> ### Example: Building U.S. Forest Service Christmas tree permits service on-top of platforms
+> 
+> The Christmas tree permitting service operated by the U.S. Forest Service lets people to legally harvest a Christmas tree for their home from a national forest. It's built on top off several platforms, including pay.gov and cloud.gov.
+> 
+> "Before Open Forest, there was no online purchasing option for these permits, limiting the public to buying permits at mostly remote USFS district offices or sometimes from local vendors during weekday business hours. From launch to the the end of the holiday season, Open Forest sold nearly 5,000 permits across the four pilot forests."
+> 
+> "Though 18F has delivered many products to production since its founding in 2014, this is our first product to include payment functionality. Purchasers can use their credit card, debit card, or bank account number to pay for a permit through the U.S. Department of the Treasury’s Pay.gov. Leveraging this existing service helped us implement a modular approach; our product team focused on the unique Christmas tree sale process, rather than reinventing how to make a secure payment. For the Forest Service staff in the district offices, it minimized the administrative burden of processing large sums of cash."
+> 
+> "Why did we design and build a print-at-home solution rather than a mobile one? With limited cellular service and temperatures dropping below freezing that can quickly drain a mobile phone battery, a digital solution might not be that durable."
+> — Laura Gerhardt, 18F [^15]
+{:.box}
+
 [^1]:   See this blog post by former UK Head of Design for Government for a fuller exploration of this idea. Lou Downe, "Better services with patterns and standards", Government Digital Service Blog, 6th August 2015, [https://gds.blog.gov.uk/2015/08/06/better-services-with-patterns-and-standards/](https://gds.blog.gov.uk/2015/08/06/better-services-with-patterns-and-standards/)
 
 [^2]:   Sam Trendall, "We have only scratched the surface’ – Estonia’s CIO on what’s next for the world’s most celebrated digital nation", PublicTechnology.net, 18th February 2019, [https://publictechnology.net/articles/features/‘we-have-only-scratched-surface’-–-estonia’s-cio-what’s-next-world’s-most](https://publictechnology.net/articles/features/%E2%80%98we-have-only-scratched-surface%E2%80%99-%E2%80%93-estonia%E2%80%99s-cio-what%E2%80%99s-next-world%E2%80%99s-most)
@@ -83,3 +95,5 @@ Look for opportunities to use APIs and registers to design services that proacti
 [^13]:  OpenCorperates, "Fireflies and algorithms — the coming explosion of companies", Medium, 24th October 2018, [https://medium.com/@opencorporates/fireflies-and-algorithms-the-coming-explosion-of-companies-9d53cdb8738f](https://medium.com/@opencorporates/fireflies-and-algorithms-the-coming-explosion-of-companies-9d53cdb8738f)
 
 [^14]:  Citizens Advice, "Check if a change affects your Universal Credit", [https://www.citizensadvice.org.uk/benefits/universal-credit/what-youll-need-to-do-on-universal-credit/check-if-a-change-affects-your-universal-credit/](https://www.citizensadvice.org.uk/benefits/universal-credit/what-youll-need-to-do-on-universal-credit/check-if-a-change-affects-your-universal-credit/). Retrieved 5th June 2019.
+
+[^15]:  Extract from a blog post published by Laura Gerhardt published after the launch of the service. Laura Gerhardt, "Buying Christmas tree permits online with Open Forest", 18F Blog, 12th February 2019
