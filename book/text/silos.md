@@ -14,7 +14,7 @@ If teams can't find each other's work, the chances of them working together are 
 
 For this reason, Google have a single version control system for it's code, which thousands of engineers across the organization have access to. It enables them to find, reuse and improve existing components.[^1] Estonia and the USA both emulated this, with publicly searchable repositories of source-code.[^2][^3]
 
-Shared project backlogs, such as those operated by the British Columbia Design System allow anyone with an interest to suggest an improvement. [^4]. The Federalist publishing platform maintained by 18F allows anyone to submit issues via github and has a public chat room for users to ask questions.[^5] And the Pipeline project in the UK, lets different local governments share the projects they are working on an solicit for collaborators. [^6]
+Shared project backlogs, such as those operated by the British Columbia Design System allow anyone with an interest to suggest an improvement. [^4]. The Federalist publishing platform maintained by 18F allows anyone to submit issues via github and has a public chat room for users to ask questions.[^5] The Pipeline project in the UK, lets different local governments share the projects they are working on an solicit for collaborators. [^6] And, in Italy, the project to create a national population register maintains a public forum where the 8000+ municipalities in the project can as questions.[^7]
 
 Identify opportunities for using common, cross-government tools for things source-control and project management. Publish code in the open, and under a suitable open license that makes reuse simple. Create a public register of projects currently in development, ideally with links to open backlogs.
 
@@ -33,7 +33,7 @@ Celebrate and reward people for working collaboratively across silos, be that vi
 
 Teams need to _feel_ they have the permission and support to work in this way, and that means the leadership incentives need to be right. Cross-silo working is hard if managers are focused on their own domain rather than the value to the wider organization.
 
-For this reason, one of Amazon's leadership principles is "ownership". Managers are encouraged to "act on behalf of the entire company, beyond just their own team" and "don't sacrifice long-term value for short-term results". [^7]
+For this reason, one of Amazon's leadership principles is "ownership". Managers are encouraged to "act on behalf of the entire company, beyond just their own team" and "don't sacrifice long-term value for short-term results". [^8]
 
 Leaders taking a platform approach to government need to be comfortable allocating time and money to support work that could have a wider benefit, and help everyone feel it is part of their job.
 
@@ -64,4 +64,6 @@ Leaders taking a platform approach to government need to be comfortable allocati
 
 [^6]:   LocalGov Digital, "Welcome to Pipeline from LocalGov Digital", [https://pipeline.localgov.digital](https://pipeline.localgov.digital). Retrieved 12th June 2019.
 
-[^7]:   Amazon, "Leadership Principles", [https://www.amazon.jobs/en-gb/principles](https://www.amazon.jobs/en-gb/principles). Retrieved 4th June 2019."
+[^7]:   Agenzia per l'Italia digitale, "Recenti ANPR - Anagrafe Nazionale argomenti - Forum Italia", [https://forum.italia.it](https://forum.italia.it/c/anpr). Retrieved 15th June 2019.
+
+[^8]:   Amazon, "Leadership Principles", [https://www.amazon.jobs/en-gb/principles](https://www.amazon.jobs/en-gb/principles). Retrieved 4th June 2019."

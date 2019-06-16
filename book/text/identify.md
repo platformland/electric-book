@@ -1,6 +1,6 @@
 # Identifying platforms
 
-Platforms solve problems once, meeting the common needs of users, rather than addressing the same problem multiple times, in slightly different ways, for each type of user. Those users might be elsewhere in government, in a different tier of government or outside government altogether (for example, a private company or charity).
+Platforms solve problems once, meeting the common needs of users, rather than addressing the same problem multiple times, in slightly different ways. Those users might be elsewhere in government, in a different tier of government or outside government altogether (for example, a private company or charity).
 
 Your organization will need to prioritize three things to help it identify where there is a genuine opportunity to do this, and where the opportunity is purely superficial:
 
@@ -23,7 +23,7 @@ There is no single approach to doing this, but approaches you might like to cons
 * Review code repositories to identify teams working on the same problem.
 * Create a service map or user-journey map and use it to identify common needs.[^5]
 
-Regardless of approach, all these activities take some time and effort, and will be competing against other priorities. So, making it someone's explicit responsibility to spot common needs and duplication across teams, may be required.
+Regardless of approach, all these activities take some time and effort, and will be competing against other priorities. So, make it clear where responsibility to spot common needs and duplication across teams lies.
 
 ## 2. Provide a path from products to platforms
 
@@ -31,7 +31,7 @@ A less top-down approach is to ensure there are clear routes for 'point solution
 
 For example, the authentication platform, Login.gov, started life as a larger project called [MyUSA](#), which aimed to provide a single account and to do list for interacting with government. The authentication part of the project was developed into login.gov by 18F and the United States Digital Service. [^6]
 
-Another example is the letter printing feature of the GOV.UK Notify messaging platform. It makes use of spare printing capacity at the UK driving licence agency's secure printing facility that was created when printed 'tax discs' were abolished.[^7]
+Another example is the letter printing feature of the GOV.UK Notify messaging platform. It makes use of the spare printing capacity at the UK driving licence agency's secure printing facility that was created when printed 'tax discs' were abolished.[^7]
 
 This approach is similar to that taken by many teams at commercial platform companies, where problems are first solved within product teams, but then supported with staff and funding to turn them into more general solutions.
 
@@ -41,7 +41,15 @@ For commercial services, the 'route to market' is potentially clearer - for exam
 
 For the approach to be a success, teams working in government will need to be supported to generalize their point-solutions into platforms.
 
-## 3. Get the level of abstraction right
+## 3. Identify real-world platforms
+
+Platforms normally get talked about in terms of shared digital capabilities – things like hosting, identity or payments. As the GOV.UK Notify printing example above shows, as do commercial platforms like Grab (a broker for motorbike taxis in South East Asia), it is possible to put platform-like capabilities around physical goods and services.
+
+Most governments operate some public-facing offices – places like tax offices or labour exchanges. Like many digital services, these only tend to offer the services related to the part of government that owns them: you can’t get help filling out a passport application at a tax office. What if local offices were seen as a shared capability for any government service that needs to talk to people face-to-face? Or a place to take cash payments for people without bank accounts?
+
+Understand where there might be opportunities to build a platform around fragmented, real-world capabilities.
+
+## 4. Get the level of abstraction right
 
 Developing a good, collective understanding of what makes a good platform is also important. A good general rule is that if a system is trying to do multiple things, or is highly customizable, it probably isn't a good platform.
 
@@ -80,4 +88,4 @@ Simple platforms are easier for developers to use because it is clear exactly wh
 
 [^7]:   @yahoo_pete (Pete Herlihy), "One of the coolest things about this, is that we made a deal with the DVLA to use their secure, modern on-site print facilities for our letter fulfilment. Having stopped printing tax discs etc a few years back, they had capacity. And we could maximise the savings to taxpayers.", 16th April 2019, [https://twitter.com/yahoo\_pete/status/1118245112482598912?s=12](https://twitter.com/yahoo_pete/status/1118245112482598912?s=12)
 
-[^8]:   Interview Dr Adam Connors, Senior Google Engineering Manager
+[^8]:   Interview, Dr Adam Connors, Senior Google Engineering Manager
