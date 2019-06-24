@@ -1,6 +1,6 @@
 # Data infrastructure, APIs and open standards
 
-Rather than the duplication and sharing of data (as often happens in legacy technology systems) in a platform ecosystem data is accessed, as needed via APIs using agreed open-standards. Data, rather than being held in multiple places and multiple formats, is stored in canonical registers.
+WIth legacy systems, data gets shared and duplicated. In a platform ecosystem data is accessed as needed, via APIs using agreed open-standards. Data, rather than being held in multiple places and multiple formats, is stored in canonical registers.
 
 ## 1. Create canonical registers of data and manage them on behalf of multiple services
 
@@ -19,8 +19,6 @@ Large-scale, standardization efforts outside of government show what is possible
 
 In the UK, the Cabinet Office solicits suggestions for the adoption of existing open standards via GitHub.[^2] Businesses, citizens or civil servants can suggest areas that may benefit from the adoption of standards. There is then an open process for the suggestion and adoption of open standards.
 
-When deciding on an approach to agreeing standards, make sure there is adequate space for ethical and privacy considerations. Especially when it comes to modelling data about people.
-
 ## 3. Build on APIs and create new APIs
 
 Developing a platform ecosystem requires both canonical data registers, and the business processes of government (for example, the status of a visa application) to be exposed as APIs. i.e. the data can be accessed programatically and in real-time.
@@ -30,6 +28,10 @@ This will not happen by itself. It requires APIs to be prioritized by teams deve
 When Argentina was developing it's new digital driving licence, rather than build a single system, the National Road Safety Agency provided an API, that API was then integrated into the miArgentina app where the digital driving licence service is housed. [^3] [^4] And when 18F developed the cross-government  FOIA.gov for managing freedom of information requests, they also provided an API for the public and agencies to use it programatically.[^5]
 
 So, if you are developing a public facing service, ask yourself "what APIs could we expose? What registers should exist to run this service? What registers and shared APIs exist that we should be using?"
+
+## 4. Provide bulk downloads in addition to APIs
+
+For open-data, provide the ability to download bulk datasets in addition to APIs. Work to understand the needs of non-developers (for example statisticians, academics and data scientists).
 
 > ### Example: Digital driving licences in Argentina
 > 
