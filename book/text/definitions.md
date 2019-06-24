@@ -20,7 +20,7 @@ The term 'Government as a Platform' is used to refer to the whole ecosystem of s
 
 Shared APIs expose the business logic of government – for example calculating a benefit payment or checking the status of an application.
 
-##### Platforms / shared platforms
+##### Platforms
 
 The term _platform_ is used in the generic sense to refer to any shared API, shared component, trust and identity system, or register.
 

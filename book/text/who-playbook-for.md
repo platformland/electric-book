@@ -8,4 +8,8 @@ As such, there is some level of minimum capability that an organization needs be
 
 Even for more digitally mature organizations, attempting to do everything listed here at once is probably a bad idea. Every organization will have strategic decisions to make about where to start.
 
+## Contributions and license
+
+This playbook is available under and a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Contributions, suggestions and errors can be [reported via GitHub](https://github.com/platformland/playbook/issues).
+
 [^1]:   Or in some instances re-introduced capabilities long-since outsourced
