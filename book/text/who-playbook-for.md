@@ -6,7 +6,7 @@ Along with new practices, these organizations have brought new professions into 
 
 As such, there is some level of minimum capability that an organization needs before it starts trying to implement many of the examples listed in this playbook. If you are working in an organization that is just starting on its digital transformation journey, then probably the best thing to do is read it, then ignore almost all of it until you have successfully delivered and operated a couple of things. 
 
-Even for more digitally mature organizations, attempting to do everything listed here at once is probably a bad idea. Every organization will have strategic decisions to make about where to start.
+Even for more digitally mature organizations, attempting to do everything listed here at once is probably a bad idea. Every organization will have strategic decisions to make about where to start. As such, please view this as a starting point rather than as a detailed journey map.
 
 ## Contributions and license
 

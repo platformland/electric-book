@@ -72,4 +72,4 @@ Ultimately though, there's no substitute for showing a working demo.
 
 [^4]:   Interview, Matthew Sheret, former Writer and Strategist Government Digital Service, 21st September 2018
 
-[^5]:   Government Digital Service, "Government as a Platform", YouTube, 9th December 2014, [https://m.youtube.com/watch?v=ZzPU6Pdw05s](https://m.youtube.com/watch?v=ZzPU6Pdw05s)
+[^5]:   Government Digital Service, "Government as a Platform", YouTube, 9th December 2014, [https://m.youtube.com/watch?v=ZzPU6Pdw05s](https://m.youtube.com/watch?v=ZzPU6Pdw05s)     

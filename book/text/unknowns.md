@@ -7,7 +7,7 @@ Below are a few areas that are in demand of more thought and research, along wit
 ## What will platforms do to public understanding of government?
 
 Today government is often bureaucratic and hard to understand. But hard to understand is different from not being understand_able_. As more data is used to deliver more services, and more decisions can be made automatically, what will it do to people’s mental model of government and will it be one that they trust? What will the cumulative effect of the development of a platform ecosystem be? What myths might arise about how the system works, in place of clear understanding of how it does?
-
+ 
 For example, some Indians have reverted to paying their taxes via paper forms (which does not require an Aadhaar number) rather than use the online service (which [^1] In the UK there have been public health concerns about data being shared between the National Health Service and the agency responsible for immigration.[^2]
 
 Hopefully, some of the transparency and accountability measures listed in this playbook will play a part in maintaining the understandability of government, but that is far from clear.

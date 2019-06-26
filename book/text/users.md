@@ -1,12 +1,12 @@
 # Users
 
-It Is one of the tenents of user centred design that services should be designed around the needs of users. But, platforms are building blocks, used to create public-facing services, so the  primary users of a platform tend not to be the public themselves (the end-users of services) but rather the people and organizations who use them to create services for the public. A platform might have users across different tiers of government and non-government organizations.
+It Is one of the tenents of user centred design that services should be designed around the needs of users. But, platforms are building blocks, used to create many different public-facing services, so the primary users of a platform tend not to be the public themselves (the end-users of services), but rather the people and organizations who use them to _create services_ for the public. A platform might have users across different tiers of government and non-government organizations.
 
 ## 1. Think of platforms as part of many services
 
-If successful, a platform will be part of many public facing services, for example, an API for validating and geocoding addresses might be used in services that let people tax their car, find a hospital or apply for benefits. As such, a team developing a platform may have only a limited relationship with the end-users of those services, and the public will experience the platform as part of a wider service, not in isolation.
+If successful, a platform will be part of many public facing services, for example, an API for validating and geocoding addresses might be used in services that let people tax their car, find a hospital, or apply for benefits. As such, a team developing a platform may have only a limited relationship with the end-users of those services, and the public will experience the platform as part of a wider service, not in isolation.
 
-The 'one-to-many' nature of platforms also means that any changes you make will affect many different types of user and many different user-journeys. This comes with a responsibility to understand the likely impacts of any changes you make and to work in an open way. The teams using your platform need to be able to anticipate changes early and ensure they work for users of their service.  
+This 'one-to-many' nature of platforms also means that any changes you make will affect many different types of user and many different services. This comes with a responsibility to understand the likely impacts of any changes you make and to work in an open way. The teams using your platform need to be able to anticipate changes early and ensure they work for users of their service.  
 
 Conduct joint user research with teams using your platform, so that you can understand how your platform manifests itself in different services. Work in the open and maintain good communications with your users, so you understand how they are using the platform and ensure they understand any upcoming changes.
 
@@ -32,7 +32,7 @@ Looking around the world, government platforms tend to have users in one of thre
 2. Government-wide - used across central, municipal and regional government.
 3. Society-wide - for example, in addition to use in government, a platform is also used in banking, or by third sector organisations and commercial companies.
 
-This is a pattern we can see if we look at identity and authentication platforms.
+We can see this if we look at the identity and authentication platforms from the US, UK and India.
 
 Login.gov provides a way to add single-sign-on to digital services, but is limited to US federal agencies.[^1] GOV.UK Verify provides a similar service (albeit with additional levels of identity verification and multiple identity providers) for central government in the UK, but there have also been trials to use it in local government too.[^2] [^3] While in India, the Aadhaar identity platform is used well beyond government services for people to open bank accounts (and not without controversy). [^4]
 
@@ -43,7 +43,7 @@ The key thing to understand is that this is a strategic decision that can be mad
 > ### Example: Identifying users of Government as a Platform in the UK
 > 
 > **In the UK, much of the early work of the Government Digital Service had been focused on projects with significant public-facing elements. As the organization began to focus more explicitly on platforms, it had to change how it thought about users:**
->
+> 
 > "Many of us joined the Government Digital Service to work directly on things which matter to users. We realized that, organizationally, our job had shifted to meeting the needs of other civil servants, so that they can meet the needs of their users and, as a consequence of that, public services improve and the quality of people's experience of the state is transformed."
 > 
 > "Citizens are not the only valid users – even GOV.UK itself has a huge number of civil servant users who are using it as a publishing tool."
