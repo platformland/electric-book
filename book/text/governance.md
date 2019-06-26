@@ -52,6 +52,16 @@ Estonia's X-Road data exchange uses this approach to create a tamper-proof log o
 
 Don't just rely on access controls to limit the use of data.
 
+>### Example: The Web Integrity Project
+> The Web Integrity Project systematically monitors changes to 30,000 federal agency webpages using software that crawls URLs every few days and alerts us when a change has been made. A team of analysts review the changes, and the Web Integrity Project extensively reviews and vet and changes we decide to report on. The regular monitoring of websites forms the basis of our efforts to hold the federal government accountable by revealing shifts in information and public access to resources. We work with journalists to make our findings public, and we produce policy analyses to evaluate and recommend changes to web governance practices and help ensure access to valuable Web resources.
+>
+> Many of the changes we find are minor or routine. Others reflect stated shifts in policy. Some reveal the removal of large amounts of useful information or data from public view.  And sometimes we see alterations to websites that are more like spoilers: they foreshadow changes in policy that will come later after a much longer, more open rulemaking process or a public announcement of the policy shift.
+> 
+> A government API that included data on content changes, the creation and removal of pages, and usage statistics would be of immense use in our work. We could build a more automated and efficient workflow with access to information on which pages were changed, removed, or added and exactly when.
+> 
+> — Dr Sarah John, Director, Web Integrity Project 
+\{:.box}
+
 [^1]:   For an example see [https://www.gov.uk/info/jobsearch](https://www.gov.uk/info/jobsearch)
 
 [^2]:   NSW Government, "Feedback Assist", [https://www.digital.nsw.gov.au/digital-design-system/components/reusable-components/feedback-assist](https://www.digital.nsw.gov.au/digital-design-system/components/reusable-components/feedback-assist). Retrieved 25th June 2019.

@@ -2,7 +2,7 @@
 
 In any multidisciplinary field, definitions and terminology have a tendency to create trip-hazards. This is definitely the case in "platform land". A _service_ may mean something different to a _service designer_ than it does to a _software engineer_; for some a _platform_ carries with it assumptions about multi-sided market places, for others, it's just a component to be built upon.
 
-In this book, the following definitions are used:
+In this playbook, the following definitions are used:
 
 ##### Services
 

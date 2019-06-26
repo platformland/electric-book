@@ -6,7 +6,7 @@ APIs should be designed to answer questions rather than revealing a complete dat
 
 Many of the requirements for the safe operation of a platform ecosystem, such as an effective and privacy digital rights framework, are beyond the gift of digital service teams. As such, please do not read this section as anything approaching a complete list. Instead, see it as a set of practical things that should be within your control.
 
-# 1. Design for an identity ecosystem (not an identity system)
+## 1. Design for an identity ecosystem (not an identity system)
 
 Digital identity is often thought of in terms of a singular system - a single digital identity system to join everything together. There are risks with this approach. It potentially creates a single point of failure.[^1] It risks joining together data that are best kept separate. It also may not reflect the reality that many countries have multiple systems of ID that can be made interoperable.
 
