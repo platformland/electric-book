@@ -25,7 +25,7 @@ Developing a platform ecosystem requires both canonical data registers, and the 
 
 This will not happen by itself. It requires APIs to be prioritized by teams developing services and for space to be made for the development of shared data infrastructure.
 
-When Argentina was developing it's new digital driving licence, rather than build a single system, the National Road Safety Agency provided an API, that API was then integrated into the miArgentina app where the digital driving licence service is housed. [^3] [^4] And when 18F developed the cross-government  FOIA.gov for managing freedom of information requests, they also provided an API for the public and agencies to use it programatically.[^5]
+When Argentina was developing it's new digital driving licence, rather than build a single system, the National Road Safety Agency provided an API, that API was then integrated into the miArgentina app where the digital driving licence service is housed. [^3]  And when 18F developed the cross-government  FOIA.gov for managing freedom of information requests, they also provided an API for the public and agencies to use it programatically.[^4]
 
 So, if you are developing a public facing service, ask yourself "what APIs could we expose? What registers should exist to run this service? What registers and shared APIs exist that we should be using?"
 
@@ -50,6 +50,4 @@ For open-data, provide the ability to download bulk datasets in addition to APIs
 
 [^3]:   Mike Bracken, “Argentina just made driving licences digital”, Public Digital blog, 12th February 2019, https://public.digital/2019/02/12/argentina-just-made-driving-licences-digital/
 
-[^4]:   Citation needed
-
-[^5]:   U.S. Department of Justice, "Developer resources", [https://www.foia.gov/developer/](https://www.foia.gov/developer/). Retrieved 8th June 2019.
+[^4]:   U.S. Department of Justice, "Developer resources", [https://www.foia.gov/developer/](https://www.foia.gov/developer/). Retrieved 8th June 2019.

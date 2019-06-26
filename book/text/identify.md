@@ -12,17 +12,17 @@ Your organization will need to prioritize three things to help it identify where
 
 Chances are you are already aware of lots of duplication. It might be multiple services all using different payment systems or address lookups. It might be developers from different teams creating their own login system or hosting setup. In fact, this seems to be the normal state of most organizations developing digital services.
 
-However, hoping that shared APIs, components and registers will emerge organically from this is unlikely to lead to results. For example, no shared components, APIs or registers emerged from the UK Government Digital Service's _Exemplar_ programme (which saw teams setup across government to redesign digital services).[^1]
+However, hoping that shared APIs, components and registers will emerge organically from this is unlikely to lead to results. For example, no shared components, APIs or registers emerged from the UK Government Digital Service's _Exemplar_ programme (which saw teams setup across government to redesign digital services).
 
 There is no single approach to doing this, but approaches you might like to consider include:
 
-* Conducting interviews and surveys to understand where common needs might exist.[^2]
-* Using [Wardley Mapping](#) to identify duplication.[^3]
-* Use governance processes, such as service standard assessments, to collect data about common needs.[^4]
+* Conducting interviews and surveys to understand where common needs might exist.[^1]
+* Using [Wardley Mapping](#) to identify duplication.[^2]
+* Use governance processes, such as service standard assessments, to collect data about common needs.[^3]
 * Review legislation and guidance to identify where one service might benefit from API access to another.
 * Review code repositories to identify teams working on the same problem.
-* Create a service map or user-journey map and use it to identify common needs.[^5]
-* Create a map of the data ecosystem and use it to identify common needs, and datasets that can be adapted into common registers.[^6]
+* Create a service map or user-journey map and use it to identify common needs.[^4]
+* Create a map of the data ecosystem and use it to identify common needs, and datasets that can be adapted into common registers.[^5]
 
 Regardless of approach, all these activities take some time and effort, and will be competing against other priorities. So, make it clear where responsibility to spot common needs and duplication across teams lies.
 
@@ -30,13 +30,13 @@ Regardless of approach, all these activities take some time and effort, and will
 
 A less top-down approach is to ensure there are clear routes for 'point solutions' from individual products to develop into shared platforms. A point solution is something that has been developed as part of a single service, that might be useful as a more general platform for multiple services.
 
-For example, the authentication platform, Login.gov, started life as a larger project called [MyUSA](#), which aimed to provide a single account and to do list for interacting with government. The authentication part of the project was developed into login.gov by 18F and the United States Digital Service. [^7]
+For example, the authentication platform, Login.gov, started life as a larger project called [MyUSA](#), which aimed to provide a single account and to do list for interacting with government. The authentication part of the project was developed into login.gov by 18F and the United States Digital Service.[^6]
 
-Another example is the letter printing feature of the GOV.UK Notify messaging platform. It makes use of the spare printing capacity at the UK driving licence agency's secure printing facility that was created when printed 'tax discs' were abolished.[^8]
+Another example is the letter printing feature of the GOV.UK Notify messaging platform. It makes use of the spare printing capacity at the UK driving licence agency's secure printing facility that was created when printed 'tax discs' were abolished.[^7]
 
 This approach is similar to that taken by many teams at commercial platform companies, where problems are first solved within product teams, but then supported with staff and funding to turn them into more general solutions.
 
-Within Google, setting up a new team is often off the back of what is already happening organically. Google tends to create a set of core, high-level values while allowing space to innovate. Things that are mandated are really high-level, rather than day-to-day - everything rolls-up to a higher objective.[^9]
+Within Google, setting up a new team is often off the back of what is already happening organically. Google tends to create a set of core, high-level values while allowing space to innovate. Things that are mandated are really high-level, rather than day-to-day - everything rolls-up to a higher objective.[^8]
 
 For commercial services, the 'route to market' is potentially clearer - for example, an Amazon platform can ultimately appear in the AWS dashboard alongside the company's other offerings where developers can use (and pay) for it.
 
@@ -75,20 +75,18 @@ Simple platforms are easier for developers to use because it is clear exactly wh
 > — Steve Marshall, Head of Hosting and Digital Operations, Ministry of Justice (UK)
 {:.box}
 
-[^1]:   Citation needed
+[^1]:   In the UK, the Government Digital Service conducted 150 interviews with teams across government with the aim of understanding their common needs. It led GDS to understand they should prioritize a form building platform over one that, for example, accepted payments from the public, because more services needed it. Richard Pope, "Interview with Will Myddelton – UK Government as a Platform programme", 29th October 2018, [https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8](https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8)
 
-[^2]:   In the UK, the Government Digital Service conducted 150 interviews with teams across government with the aim of understanding their common needs. It led GDS to understand they should prioritize a form building platform over one that, for example, accepted payments from the public, because more services needed it. Richard Pope, "Interview with Will Myddelton – UK Government as a Platform programme", 29th October 2018, [https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8](https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8)
+[^2]:   Wardley Mapping is an approach to visualising the components required to deliver a service. Simon Wardley, "An introduction to Wardley (Value Chain) Mapping", bits or pieces?, 2nd February 2015, [https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
 
-[^3]:   Wardley Mapping is an approach to visualising the components required to deliver a service. Simon Wardley, "An introduction to Wardley (Value Chain) Mapping", bits or pieces?, 2nd February 2015, [https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
+[^3]:   Richard Pope, "Interview with Will Myddelton – UK Government as a Platform programme", 29th October 2018, [https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8](https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8)
 
-[^4]:   Richard Pope, "Interview with Will Myddelton – UK Government as a Platform programme", 29th October 2018, [https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8](https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8)
+[^4]:   Mike Bracken, "Mapping new ideas for the digital justice system", Government Digital Service Blog, 18th August 2015, [https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/](https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/)
 
-[^5]:   Mike Bracken, "Mapping new ideas for the digital justice system", Government Digital Service Blog, 18th August 2015, [https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/](https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/)
+[^5]:   Open Data Institute, "Mapping data ecosystems", 23rd March 2018,[https://theodi.org/article/mapping-data-ecosystems/](https://theodi.org/article/mapping-data-ecosystems/)
 
-[^6]:   Open Data Institute, "Mapping data ecosystems", 23rd March 2018,[https://theodi.org/article/mapping-data-ecosystems/](https://theodi.org/article/mapping-data-ecosystems/)
+[^6]:   18F, "18F/myusa", [https://github.com/18F/myusa](https://github.com/18F/myusa). Retrieved 26th June 2019.
 
-[^7]:   Citation needed
+[^7]:   @yahoo_pete (Pete Herlihy), "One of the coolest things about this, is that we made a deal with the DVLA to use their secure, modern on-site print facilities for our letter fulfilment. Having stopped printing tax discs etc a few years back, they had capacity. And we could maximise the savings to taxpayers.", 16th April 2019, [https://twitter.com/yahoo\_pete/status/1118245112482598912?s=12](https://twitter.com/yahoo_pete/status/1118245112482598912?s=12)
 
-[^8]:   @yahoo_pete (Pete Herlihy), "One of the coolest things about this, is that we made a deal with the DVLA to use their secure, modern on-site print facilities for our letter fulfilment. Having stopped printing tax discs etc a few years back, they had capacity. And we could maximise the savings to taxpayers.", 16th April 2019, [https://twitter.com/yahoo\_pete/status/1118245112482598912?s=12](https://twitter.com/yahoo_pete/status/1118245112482598912?s=12)
-
-[^9]:   Interview, Dr Adam Connors, Senior Google Engineering Manager
+[^8]:   Interview, Dr Adam Connors, Senior Google Engineering Manager

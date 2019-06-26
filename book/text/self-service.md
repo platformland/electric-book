@@ -16,9 +16,9 @@ Well-written documentation is essential to help your users understand how to use
 
 ## 3. Go where your users are
 
-Developers and designers who are building services using your platforms will have existing tools and workflows. By understanding which package managers, languages and tools that they use, you can make it quicker and simpler for them to get started.[^8]
+Developers and designers who are building services using your platforms will have existing tools and workflows. By understanding which package managers, languages and tools that they use, you can make it quicker and simpler for them to get started.
 
-For example, the U.S. Web Design System and the Australian Government Design System are published as Node.js packages that can be installed via the NPM package management system.[^9] [^10] This makes it simpler to use and to track updates.[^11]
+For example, the U.S. Web Design System and the Australian Government Design System are published as Node.js packages that can be installed via the NPM package management system.[^8] [^9] This makes it simpler to use and to track updates.
 
 Try and emulate a high-quality open-source vendor. Create and maintain packages in the languages your users use most, and publish code samples online.
 
@@ -26,7 +26,7 @@ Try and emulate a high-quality open-source vendor. Create and maintain packages 
 
 Commercial platforms like Twilio, Google's Cloud APIs and GoCardless let users try out the capability of their platforms. They do this by either allowing free access at low usage or providing a sandbox environment. They may also provide a manual interface to help users understand it's capabilities without writing any code.
 
-The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, also includes links to sandboxes as part of their documentation.[^12] 
+The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, also includes links to sandboxes as part of their documentation.[^10] 
 
 Consider creating a manual interface or sandbox so people can use or try it without writing any code and without exposing sensitive information (for example, by using fake data). Think carefully before requiring registration or anything else that might unnecessarily slow users down.
 
@@ -34,7 +34,7 @@ Consider creating a manual interface or sandbox so people can use or try it with
 
 Designing for self-service is not just about meeting the needs of developers and designers. Working hard to make your platform easy to procure is also important.
 
-The GOV.UK Notify team spent lots of time writing Memorandums of Understanding in plain English. They also calculated that they could offer the platform to 80% of users without charging.[^13]
+The GOV.UK Notify team spent lots of time writing Memorandums of Understanding in plain English. They also calculated that they could offer the platform to many of users without charging.[^11]
 
 When planning your user research, make sure to include people responsible for procurement and finance. Map out procurement 'pain-points' and prioritise addressing them.
 
@@ -65,14 +65,10 @@ When planning your user research, make sure to include people responsible for pr
 
 [^7]:   HM Government, "GOV.UK Registers", [https://www.registers.service.gov.uk](https://www.registers.service.gov.uk). Retrieved 17th June 2019.
 
-[^8]:   Citation needed
+[^8]:   "uswds (United States Web Design System)", npm, [https://www.npmjs.com/package/uswds](https://www.npmjs.com/package/uswds). Retrieved 5th June 2019.
 
-[^9]:   "uswds (United States Web Design System)", npm, [https://www.npmjs.com/package/uswds](https://www.npmjs.com/package/uswds). Retrieved 5th June 2019.
+[^9]:   "[uswds (United States Web Design System)](gov.au)", npm, [https://www.npmjs.com/org/gov.au](https://www.npmjs.com/org/gov.au). Retrieved 8th June 2019.
 
-[^10]:  "[uswds (United States Web Design System)](gov.au)", npm, [https://www.npmjs.com/org/gov.au](https://www.npmjs.com/org/gov.au). Retrieved 8th June 2019.
+[^10]:  "About eSign API", [https://indiastack.org/esign/](https://indiastack.org/esign/). Retrieved 8th June 2019.
 
-[^11]:  Citation needed
-
-[^12]:  "About eSign API", [https://indiastack.org/esign/](https://indiastack.org/esign/). Retrieved 8th June 2019.
-
-[^13]:  Citation needed
+[^11]:  HM Government, "Pricing", [https://www.notifications.service.gov.uk/pricing](https://www.notifications.service.gov.uk/pricing). Retrieved 26th June 2019.

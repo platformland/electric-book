@@ -20,7 +20,7 @@ If the funding processes within your organization restrict you to only seeking f
 
 ## 3. Understand any legal and constitutional constraints on funding models
 
-There may be constraints on the funding models that can be used for certain types of users. For example, in the USA, some federal agencies are precluded from charging states for services.[^2] At the same time, some organizations may be required by law to recover costs and therefore find it harder to offer platforms.
+There may be constraints on the funding models that can be used for certain types of users. At the same time, some organizations may be required by law to recover costs and therefore find it harder to offer platforms.
 
 In the long run, such issues may not make for a very good operating model. In the short-term, it is important to understand the constraints.
 
@@ -34,7 +34,7 @@ As previously discussed (see 'Identifying platforms'), 'point solutions' develop
 
 Charging for a service may be too high a bar for some users, not necessarily because of the per-use cost, but due to the administrative costs associated with procurement.
 
-The GOV.UK Notify messaging platform, for example, realized they serve more users by offering the service free to the majority of users. They were only in a position to be able to do this because they are centrally funded. [^3]
+The GOV.UK Notify messaging platform, for example, realized they serve more users by offering the service free to the majority of users. They were only in a position to be able to do this because they are centrally funded.
 
 In a limited number of cases, charging for high usage may be a way of ensuring efficient use.
 
@@ -44,7 +44,7 @@ Platforms cut across the hierarchical structure of government: shared components
 
 And while there may be tactical reasons for developing a platform in one part of government or another, ultimately the question may arise: "where is the best place to operate it for the wider good?"
 
-In the UK, the success of GDS was in part that it was a new organization at the center of government, with responsibilities across government.[^4] In India, the Goods and Services Tax Network operates APIs and other infrastructure needed to operate the national harmonized sales tax. GSTN is a non-profit company owned partly by the national and state level governments.[^5]
+In the UK, the success of GDS was in part that it was a new organization at the center of government, with responsibilities across government.[^2] In India, the Goods and Services Tax Network operates APIs and other infrastructure needed to operate the national harmonized sales tax. GSTN is a non-profit company owned partly by the national and state level governments.[^3]
 
 While it may be outside the remit of a product manager or a Chief Digital Officer to create new government agencies, having an opinion about the characteristics of an organization that should operate each platform is not.
 
@@ -54,10 +54,6 @@ Platforms that are developed as open-source have the advantage of having the opt
 
 [^1]:   Interview, Dr Adam Connors, Senior Google Engineering Manager
 
-[^2]:   Citation needed
+[^2]:   Bryan Glick, “GDS is ‘sidelined’ and government as a platform ‘is dead’, says Francis Maude”, Computer Weekly, 14th September 2017, [https://www.computerweekly.com/news/450426316/GDS-is-being-sidelined-and-government-as-a-platform-is-dead-says-Francis-Maude](#)
 
-[^3]:   Citation needed
-
-[^4]:   Bryan Glick, “GDS is ‘sidelined’ and government as a platform ‘is dead’, says Francis Maude”, Computer Weekly, 14th September 2017, [https://www.computerweekly.com/news/450426316/GDS-is-being-sidelined-and-government-as-a-platform-is-dead-says-Francis-Maude](#)
-
-[^5]:   Goods and Services Tax Network, “About Us”, https://www.gstn.org/about-us/
+[^3]:   Goods and Services Tax Network, “About Us”, https://www.gstn.org/about-us/
