@@ -12,7 +12,7 @@ Conduct joint user research with teams using your platform, so that you can unde
 
 ## 2. Understand _who_ your users are
 
-Because shared components, APIs, registers and identity systems are building blocks of public-facing services, it's important to understand the users of a platform are often not the public (at least not directly). Designing a good platform will require and understanding of their needs, but first you need to identify who they might be. Some important user types to understand include:
+Because shared components, APIs, registers and identity systems are building blocks of public-facing services, it's important to understand the users of a platform are often not the public (at least not directly). Designing a good platform will require an understanding of their needs, but first you need to identify who they might be. Some important user types to understand include:
 
 * **Developers** wanting to integrate with your platforms quickly and simply.
 * **Designers** of a public-facing service who may need to understand how your platform will fit into the broader design of a service, or include it in prototypes they are testing.
@@ -30,13 +30,13 @@ Looking around the world, government platforms tend to have users in one of thre
 
 1. Limited to a single tier of government - for example used by a single state in a federal system, or only by central government.
 2. Government-wide - used across central, municipal and regional government.
-3. Society-wide - for example, in addition to use in government, a platform is also used in banking, or by third sector organisations and commercial companies.
+3. Society-wide - for example, in addition to use in government, a platform is also used in banking, or by third sector organizations and commercial companies.
 
 We can see this if we look at the identity and authentication platforms from the US, UK and India.
 
 Login.gov provides a way to add single-sign-on to digital services, but is limited to US federal agencies.[^1] GOV.UK Verify provides a similar service (albeit with additional levels of identity verification and multiple identity providers) for central government in the UK, but there have also been trials to use it in local government too.[^2] [^3] While in India, the Aadhaar identity platform is used well beyond government services for people to open bank accounts (and not without controversy). [^4]
 
-It is important not to take away from this that ‘the broader the usage the better the platform'. There may be very good reasons for focusing on a subset of institutions early on. There may also be circumstances where a single society-wide platform has too many significant risks associated with it. (Identity is indeed one area where a single, centralised system might be undesirable!)
+It is important not to take away from this that ‘the broader the usage the better the platform'. There may be very good reasons for focusing on a subset of institutions early on. There may also be circumstances where a single society-wide platform has too many significant risks associated with it. (Identity is indeed one area where a single, centralized system might be undesirable!)
 
 The key thing to understand is that this is a strategic decision that can be made, and one that can change over time. Who your users are will change too.
 

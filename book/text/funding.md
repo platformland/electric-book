@@ -10,7 +10,7 @@ These teams do not need to be large, but they do need to be invested in the long
 
 ## 2. Fund teams for the long-term
 
-Funding platforms on a fixed-term basis is at odds with the idea of shared infrastructure. (Who would build on top of a platform if they didn't know if it was going to be about in a year or two?) It also makes the retention of the team needed to operate and continuously improve platforms harvder.
+Funding platforms on a fixed-term basis is at odds with the idea of shared infrastructure. (Who would build on top of a platform if they didn't know if it was going to be about in a year or two?) It also makes the retention of the team needed to operate and continuously improve platforms harder.
 
 Cost-recovery based funding is also not easily compatible with the development of platforms for the simple fact that the cost-per-transaction decreases as the user base increases, saddling early users with higher costs.
 
@@ -48,12 +48,12 @@ In the UK, the success of GDS was in part that it was a new organization at the 
 
 While it may be outside the remit of a product manager or a Chief Digital Officer to create new government agencies, having an opinion about the characteristics of an organization that should operate each platform is not.
 
-## 7. Allow for multi-tenancy and self hosting
+## 7. Allow for multi-tenancy and self-hosting
 
-Platforms that are developed as open-source have the advantage of having the option of both 'software as a service' (multi-tendency) and self-hosting. While there is often little reason for two different governments agencies to use separate instances of a platform, there may be legitimate reasons (for example, when different tiers of government within a federal system need to keep data separate)
+Platforms that are developed as open-source have the advantage of having the option of both 'software as a service' (multi-tenancy) and self-hosting. While there is often little reason for two different governments agencies to use separate instances of a platform, there may be legitimate reasons (for example, when different tiers of government within a federal system need to keep data separate)
 
 [^1]:   Interview, Dr Adam Connors, Senior Google Engineering Manager
 
 [^2]:   Bryan Glick, “GDS is ‘sidelined’ and government as a platform ‘is dead’, says Francis Maude”, Computer Weekly, 14th September 2017, [https://www.computerweekly.com/news/450426316/GDS-is-being-sidelined-and-government-as-a-platform-is-dead-says-Francis-Maude](#)
 
-[^3]:   Goods and Services Tax Network, “About Us”, https://www.gstn.org/about-us/
+[^3]:   Goods and Services Tax Network, “About Us”, [https://www.gstn.org/about-us/](https://www.gstn.org/about-us/)

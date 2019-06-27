@@ -1,6 +1,6 @@
 # Reuse
 
-Reusing existing open-source platforms from other governments can reduce development time. Putting wrappers around commercial commodity services can allow or the use of commercial offering with less risk of lock-in or loss of control.
+Reusing existing open-source platforms from other governments can reduce development time. Putting wrappers around commercial commodity services can allow for the use of commercial offerings with less risk of lock-in or loss of control.
 
 ## 1. Borrow from other governments (and celebrate it)
 

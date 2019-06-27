@@ -48,6 +48,7 @@ For open-data, provide the ability to download bulk datasets in addition to APIs
 
 [^2]:   "alphagov/open-standards", GitHub, [https://github.com/alphagov/open-standards](https://github.com/alphagov/open-standards). Retrieved 5th June 2019.
 
-[^3]:   Mike Bracken, “Argentina just made driving licences digital”, Public Digital blog, 12th February 2019, https://public.digital/2019/02/12/argentina-just-made-driving-licences-digital/
+[^3]:   Mike Bracken, “Argentina just made driving licences digital”, Public Digital blog, 12th February 2019, [https://public.digital/2019/02/12/argentina-just-made-driving-licences-digital/](https://public.digital/2019/02/12/argentina-just-made-driving-licences-digital/)
 
 [^4]:   U.S. Department of Justice, "Developer resources", [https://www.foia.gov/developer/](https://www.foia.gov/developer/). Retrieved 8th June 2019.
+

@@ -6,9 +6,9 @@ Below are a few areas that are in demand of more thought and research, along wit
 
 ## What will platforms do to public understanding of government?
 
-Today government is often bureaucratic and hard to understand. But hard to understand is different from not being understand_able_. As more data is used to deliver more services, and more decisions can be made automatically, what will it do to people’s mental model of government and will it be one that they trust? What will the cumulative effect of the development of a platform ecosystem be? What myths might arise about how the system works, in place of clear understanding of how it does?
+Today government is often bureaucratic and hard to understand. But hard to understand is different from not being understandable. As more data is used to deliver more services, and more decisions can be made automatically, what will it do to people’s mental model of government and will it be one that they trust? What will the cumulative effect of the development of a platform ecosystem be? What myths might arise about how the system works, in place of clear understanding of how it does?
  
-For example, some Indians have reverted to paying their taxes via paper forms (which does not require an Aadhaar number) rather than use the online service (which [^1] In the UK there have been public health concerns about data being shared between the National Health Service and the agency responsible for immigration.[^2]
+For example, some Indians have reverted to paying their taxes via paper forms (which does not require an Aadhaar number) rather than use the online service.[^1] In the UK there have been public health concerns about data being shared between the National Health Service and the agency responsible for immigration.[^2]
 
 Hopefully, some of the transparency and accountability measures listed in this playbook will play a part in maintaining the understandability of government, but that is far from clear.
 
@@ -30,9 +30,9 @@ Platforms represent a change to something more networked. Where will entirely ne
 
 Estonia plans to backup data and keep providing digital services in the face of a cyber attack. The solution has been to declare a rack in a data center in Luxembourg an Estonian embassy with all the protections of the Vienna Convention.[^13]
 
-[^1]:   Namita Devidayal & Lubna Kably, “Aadhaar rebels find ways to avoid PAN linkage”, The Times of India, 23rd July 2017 https://timesofindia.indiatimes.com/india/aadhaar-rebels-find-ways-to-avoid-pan-linkage/articleshow/59719243.cms
+[^1]:   Namita Devidayal & Lubna Kably, “Aadhaar rebels find ways to avoid PAN linkage”, The Times of India, 23rd July 2017, [https://timesofindia.indiatimes.com/india/aadhaar-rebels-find-ways-to-avoid-pan-linkage/articleshow/59719243.cms](https://timesofindia.indiatimes.com/india/aadhaar-rebels-find-ways-to-avoid-pan-linkage/articleshow/59719243.cms)
 
-[^2]:   Jasmin Gray, “NHS Pulls Out Of Data-Sharing Deal With Home Office Immigration Enforcers”, Huffington Post, 12th November 2018, https://www.huffingtonpost.co.uk/entry/nhs-data-sharing-home-office_uk_5be97198e4b0e843889a1b5d
+[^2]:   Jasmin Gray, “NHS Pulls Out Of Data-Sharing Deal With Home Office Immigration Enforcers”, Huffington Post, 12th November 2018, [https://www.huffingtonpost.co.uk/entry/nhs-data-sharing-home-office_uk_5be97198e4b0e843889a1b5d](https://www.huffingtonpost.co.uk/entry/nhs-data-sharing-home-office_uk_5be97198e4b0e843889a1b5d)
 
 [^3]:   Pia Waugh, "New Zealand explores machine-readable laws to transform government", Politico, 11th may 2018, [https://apolitical.co/solution\_article/new-zealand-explores-machine-readable-laws-to-transform-government/](https://apolitical.co/solution_article/new-zealand-explores-machine-readable-laws-to-transform-government/)
 
@@ -54,4 +54,4 @@ Estonia plans to backup data and keep providing digital services in the face of 
 
 [^12]:  Goods and Services Tax Network, “About Us”, [https://www.gstn.org/about-us/](https://www.gstn.org/about-us/)
 
-[^13]:  Sam Trendall, "We have only scratched the surface’ – Estonia’s CIO on what’s next for the world’s most celebrated digital nation", PublicTechnology.net, 18th February 2019, [https://publictechnology.net/articles/features/‘we-have-only-scratched-surface’-–-estonia’s-cio-what’s-next-world’s-most](https://publictechnology.net/articles/features/%E2%80%98we-have-only-scratched-surface%E2%80%99-%E2%80%93-estonia%E2%80%99s-cio-what%E2%80%99s-next-world%E2%80%99s-most)"")
+[^13]:  Sam Trendall, "We have only scratched the surface’ – Estonia’s CIO on what’s next for the world’s most celebrated digital nation", PublicTechnology.net, 18th February 2019, [https://publictechnology.net/articles/features/‘we-have-only-scratched-surface’-–-estonia’s-cio-what’s-next-world’s-most](https://publictechnology.net/articles/features/%E2%80%98we-have-only-scratched-surface%E2%80%99-%E2%80%93-estonia%E2%80%99s-cio-what%E2%80%99s-next-world%E2%80%99s-most)""

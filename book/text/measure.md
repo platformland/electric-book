@@ -2,7 +2,7 @@
 
 Because the primary users of a platform tend not to be the public themselves, but rather the people who use them to create services for the public, platform teams need to understand both what _they_ need to measure to operate the platform, and what their _users_ need to provide services to the public. Ultimately, the success of a platform will be perceived by the success of those services, not the platform itself.
 
-## 1. Understand what data the your team need
+## 1. Understand what data your team needs
 
 The team operating the platform will have clear a set of needs that relate to the operation and improvement of the platform. These may include some of the following:
 
@@ -49,11 +49,11 @@ With great power comes great responsibility - there may be legitimate cases for 
 
 > ## Example: Monitoring and tooling for Android
 > 
-> Google maintains specific tools to help Android developers understand app performance and respond to issues. 
+> "Google maintains specific tools to help Android developers understand app performance and respond to issues."
 > 
-> The dynamic is that whatever you do with your platform, you are perceived through the lens of the applications that run on it, so you need to provide tooling as well as APIs.
+> "The dynamic is that whatever you do with your platform, you are perceived through the lens of the applications that run on it, so you need to provide tooling as well as APIs."
 > 
-> We have a tonne of reporting that's built into the platform. If an application crashes, the system shows a dialogue: "Send report?" --- with user permission, it'll send back anonymized (non-personally identifiable) system information to the core team (so we can debug our platform) and it'll send it to the app developers so they are aware of issues. A bunch of energy is invested in Play Developer Console where we give developers a tonne of metrics & tools to help them improve their applications.
+> "We have a tonne of reporting that's built into the platform. If an application crashes, the system shows a dialogue: "Send report?" --- with user permission, it'll send back anonymized (non-personally identifiable) system information to the core team (so we can debug our platform) and it'll send it to the app developers so they are aware of issues. A bunch of energy is invested in Play Developer Console where we give developers a tonne of metrics & tools to help them improve their applications."
 > 
 > — Dr Adam Connors, Senior Google Engineering Manager
 {:.box}
@@ -76,4 +76,4 @@ With great power comes great responsibility - there may be legitimate cases for 
 
 [^9]:   "cloud.gov Status", [https://cloudgov.statuspage.io](https://cloudgov.statuspage.io). Retrieved 9th June 2019.
 
-[^10]:  See [https://aws.amazon.com/message/41926/](https://aws.amazon.com/message/41926/) and [https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/](https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/) for examples
+[^10]:  See [https://aws.amazon.com/message/41926/](https://aws.amazon.com/message/41926/) and [https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/](https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/) for examples "

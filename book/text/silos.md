@@ -14,9 +14,9 @@ If teams can't find each other's work, the chances of them working together are 
 
 For this reason, Google have a single version control system for it's code, which thousands of engineers across the organization have access to. It enables them to find, reuse and improve existing components.[^1] Estonia and the USA both emulated this, with publicly searchable repositories of source-code.[^2][^3]
 
-Shared project backlogs, such as those operated by the British Columbia Design System allow anyone with an interest to suggest an improvement. [^4]. The Federalist publishing platform maintained by 18F allows anyone to submit issues via github and has a public chat room for users to ask questions.[^5] The Pipeline project in the UK, lets different local governments share the projects they are working on an solicit for collaborators. [^6] And, in Italy, the project to create a national population register maintains a public forum where the 8000+ municipalities in the project can as questions.[^7]
+Shared project backlogs, such as those operated by the British Columbia Design System allow anyone with an interest to suggest an improvement. [^4]. The Federalist publishing platform maintained by 18F allows anyone to submit issues via github and has a public chat room for users to ask questions.[^5] The Pipeline project in the UK, lets different local governments share the projects they are working on an solicit for collaborators. [^6] And, in Italy, the project to create a national population register maintains a public forum where the 8000+ municipalities in the project can ask questions.[^7]
 
-Identify opportunities for using common, cross-government tools for things source-control and project management. Publish code in the open, and under a suitable open license that makes reuse simple. Create a public register of projects currently in development, ideally with links to open backlogs.
+Identify opportunities for using common, cross-government tools for things like source-control and project management. Publish code in the open, and under a suitable open license that makes reuse simple. Create a public register of projects currently in development, ideally with links to open backlogs.
 
 ## 2. Foster a culture of sharing
 
@@ -28,7 +28,7 @@ Governance process and guidance also need to both support (and hold to account) 
 
 Community events, like those organized by #OneTeamGov and #GovDesign, can create spaces for people to share their work and establish shared ways of working.
 
-Celebrate and reward people for working collaboratively across silos, be that via community events, performance reviews or encouraging them to write about their work. Also, ensure that the processes you create for people to contribute to, and use, platforms are open and inclusive.
+Celebrate and reward people for working collaboratively across silos, be that via community events, performance reviews or encouraging them to write about their work. Ensure that the processes you create for people to use and contribute to platforms are open and inclusive.
 
 
 ## 3. Get the leadership incentives right

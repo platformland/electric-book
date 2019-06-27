@@ -1,6 +1,6 @@
 # Adoption
 
-While designing for self service is probably the most important thing you can do encourage people to use it, it is not the only factor. At different stages in the adoption of a platform you may need to employ additional approaches. These include, ensuring that early adopters become evangelists, learning to say 'no', and the right type of mandates all play a part.
+While designing for self service is probably the most important thing you can do to encourage people to use a platform, it is not the only factor. At different stages in the adoption of a platform you may need to employ additional approaches. These include, ensuring that early adopters become evangelists, learning to say 'no', and the right type of mandates all play a part.
 
 ## 1. Use early adopters to demonstrate capability and build trust
 

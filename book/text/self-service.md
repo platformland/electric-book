@@ -34,7 +34,7 @@ Consider creating a manual interface or sandbox so people can use or try it with
 
 Designing for self-service is not just about meeting the needs of developers and designers. Working hard to make your platform easy to procure is also important.
 
-The GOV.UK Notify team spent lots of time writing Memorandums of Understanding in plain English. They also calculated that they could offer the platform to many of users without charging.[^11]
+The GOV.UK Notify team spent lots of time writing Memorandums of Understanding in plain English. They also calculated that they could offer the platform to many users without charging.[^11]
 
 When planning your user research, make sure to include people responsible for procurement and finance. Map out procurement 'pain-points' and prioritise addressing them.
 
@@ -51,7 +51,7 @@ When planning your user research, make sure to include people responsible for pr
 > — Pete Herlihy - Lead Product Manager, Government Digital Service
 {:.box}
 
-[^1]:   Australian Government, "api.gov.au", https://api.gov.au. Retrieved 5th June 2019.
+[^1]:   Australian Government, "api.gov.au", [https://api.gov.au](https://api.gov.au). Retrieved 5th June 2019.
 
 [^2]:   "api.gouv.fr", [https://api.gouv.fr](https://api.gouv.fr). Retrieved 9th march 2019.
 

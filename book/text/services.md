@@ -22,7 +22,7 @@ Take advantage of the opportunity of platforms by rapidly prototyping and testin
 
 Just as platforms are part of many services, so services are made from many platforms.
 
-A great example is the Christmas tree permitting service operated by the U.S. Forest Service that allows people to legally harvest a Christmas tree for their home from a national forest. The service is comprised of pay.gov top take payment, login.gov for authentication is hosted on cloud.gov, and uses a generic permits API built by 18F.[^5] [^6]. The user interface is built using the a variant of the U.S. Web Design system.[^7]
+A great example is the Christmas tree permitting service operated by the U.S. Forest Service that allows people to legally harvest a Christmas tree for their home from a national forest. The service is comprised of pay.gov (to take payments), login.gov (for authentication), is hosted on cloud.gov, and uses a generic permits API built by 18F.[^5] [^6]. The user interface is built using the a variant of the U.S. Web Design system.[^7]
 
 This approach means that the team designing the service can focus on the areas that are unique to the domain they are working in, and prototype a working service much faster. But it also means that the team will not have control over the entire user journey.  
 
@@ -96,4 +96,4 @@ Look for opportunities to use APIs and registers to design services that proacti
 
 [^14]:  Citizens Advice, "Check if a change affects your Universal Credit", [https://www.citizensadvice.org.uk/benefits/universal-credit/what-youll-need-to-do-on-universal-credit/check-if-a-change-affects-your-universal-credit/](https://www.citizensadvice.org.uk/benefits/universal-credit/what-youll-need-to-do-on-universal-credit/check-if-a-change-affects-your-universal-credit/). Retrieved 5th June 2019.
 
-[^15]:  Extract from a blog post published by Laura Gerhardt published after the launch of the service. Laura Gerhardt, "Buying Christmas tree permits online with Open Forest", 18F Blog, 12th February 2019
+[^15]:  Extract from a blog post published by Laura Gerhardt published after the launch of the service. Laura Gerhardt, "Buying Christmas tree permits online with Open Forest", 18F Blog, 12th February 2019, [https://18f.gsa.gov/2019/02/12/open-forest-launch-post/](https://18f.gsa.gov/2019/02/12/open-forest-launch-post/)
