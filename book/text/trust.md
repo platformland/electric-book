@@ -1,12 +1,11 @@
 # Trust and consent
 
-Services need to be able to establish enough trust (and only enough trust) to allow their users to achieve a desired outcome. Important design choices need to be made by teams designing trust and consent platforms about the number of identity systems, the number of identifiers, and how public those identifiers are.
+When it comes to identity and the exchange of data, many of the requirements for the safe operation of a platform ecosystem, such as an effective and privacy digital rights framework, are beyond the gift of digital service teams. As such, please do not read this section as anything approaching a complete list. Instead, see it as a set of practical things that should be within your control.
 
-APIs should be designed to answer questions rather than revealing a complete data record, so that only the minimum data required for the task at hand is revealed. Rather than linking together every dataset held by government, create digital proofs that allow citizens to use as they see fit.
+Services should be able to establish enough trust (and only enough trust) to allow their users to achieve a desired outcome. Only the minimum data should be collected and shared, and an understanding of the risks must be made part of the design and development process.
 
-Many of the requirements for the safe operation of a platform ecosystem, such as an effective and privacy digital rights framework, are beyond the gift of digital service teams. As such, please do not read this section as anything approaching a complete list. Instead, see it as a set of practical things that should be within your control.
 
-# 1. Design for an identity ecosystem (not an identity system)
+## 1. Design for an identity ecosystem (not an identity system)
 
 Digital identity is often thought of in terms of a singular system - a single digital identity system to join everything together. There are risks with this approach. It potentially creates a single point of failure.[^1] It risks joining together data that are best kept separate. It also may not reflect the reality that many countries have multiple systems of ID that can be made interoperable.
 
