@@ -20,7 +20,7 @@ Identify opportunities for using common, cross-government tools for things like 
 
 ## 2. Foster a culture of sharing
 
-Shared tools are not enough on their own, and while publishing open-source code is necessary, it is probably not sufficient when it comes to reuseing. A study of code.gov has recommended that agencies also invest in community management and ensure that the reasons for publishing code are clear to all.[^8]
+Shared tools are not enough on their own, and while publishing open-source code is necessary, it is probably not sufficient when it comes to reusing. A study of code.gov has recommended that agencies also invest in community management and ensure that the reasons for publishing code are clear to all.[^8]
 
 The barriers that exist to prevent people from contributing to a project may be cultural rather than because of tooling.[^9] People who may be time poor, or lacking in confidence or permission. You will need to work to foster a culture where teams across government think beyond their immediate domain.
 

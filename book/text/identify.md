@@ -44,7 +44,7 @@ For the approach to be a success, teams working in government will need to be su
 
 ## 3. Identify real-world platforms
 
-Platforms normally get talked about in terms of shared digital capabilities – things like hosting, identity or payments. As the GOV.UK Notify printing example above shows, as do commercial platforms like Grab (a broker for motorbike taxis in South East Asia), it is possible to put platform-like capabilities around physical goods and services.
+Platforms normally get talked about in terms of shared digital capabilities – things like hosting, identity or payments. As the GOV.UK Notify printing example and commercial platforms like Grab (a broker for motorbike taxis in South East Asia) show, it is possible to put platform-like capabilities around physical goods and services.
 
 Most governments operate some public-facing offices – places like tax offices or labour exchanges. Like many digital services, these only tend to offer the services related to the part of government that owns them: you can’t get help filling out a passport application at a tax office. What if local offices were seen as a shared capability for any government service that needs to talk to people face-to-face? Or a place to take cash payments for people without bank accounts?
 
