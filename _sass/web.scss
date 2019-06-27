@@ -287,3 +287,12 @@ $web-reset-sequences: true !default; // This should stay last in the @import lis
 
 // Logic (if this then that)
 @import "partials/web-reset-sequences"; // This should stay last in the @import list
+
+
+
+
+// Custom
+.pagination {
+  font-size:200%;
+  font-weight:extra-bold;
+}

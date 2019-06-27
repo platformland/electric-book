@@ -11,9 +11,9 @@ project:
   # The default contact email address
   email: "richard_pope@hks.harvard.edu"
   # The name of the project of books in this folder.
-  name: "Platform playbook"
+  name: "Government as a Platform Playbook"
   # A one-liner about this project. Useful for Open Graph metadata.
-  description: "A description goes here"
+  description: "A practitioners guide to digital platforms in government"
   # The logo of the organisation, saved web-ready in /assets
   logo: "publisher-logo.jpg"
   # An image in /assets that stands for the project
@@ -135,8 +135,6 @@ works:
             file: "data"
           - label: "Working across silos"
             file: "silos"
-          - label: "Build, buy, reuse"
-            file: "build-buy"
           - label: "Funding and operations"
             file: "funding"
           - label: "Adoption"

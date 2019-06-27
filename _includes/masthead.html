@@ -64,7 +64,7 @@
 
         <ul>
             {% if number-of-works == 1 %}
-                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}index.html">{{ title }}</a></li>
+                <li class="masthead-book-title"><a href="{{ path-to-root-directory }}book/text/0-3-contents.html">{{ title }}</a></li>
             {% else %}
                 <li class="masthead-project-name"><a href="{{ path-to-root-directory }}index.html">{{ project-name }}</a></li>
                 <li class="masthead-book-title"><a href="{{ masthead-contents-page }}{% unless masthead-contents-page contains '.html' %}.html{% endunless %}">{{ title }}</a></li>
