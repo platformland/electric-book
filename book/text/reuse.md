@@ -27,7 +27,7 @@ This is approach is unlikely to work if the components are not true commodities.
 
 [^2]:   DTA, "govau/notify", GitHub, [https://github.com/govau/notify](https://github.com/govau/notify). Retrieved 25th June 2019.
 
-[^3]:   Interview, Felicity Hitchcock, Product Manager, Tell Us Once and Platforms, DTA
+[^3]:   Interview
 
 [^4]:   Melody Kramer, "Tips for adapting analytics.usa.gov from Tennessee, Boulder, and Philadelphia", 18F Blog, 6th January 2016, [https://18f.gsa.gov/2016/01/06/tips-for-adapting-analytics-usa-gov/](https://18f.gsa.gov/2016/01/06/tips-for-adapting-analytics-usa-gov/)
 
