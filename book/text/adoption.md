@@ -28,7 +28,7 @@ Don't be afraid to say no to feature requests, even from big users. Especially i
 
 ## 4. Mandate the right thing (and only once it works)
 
-While the aim should always be to design platfroms that clearly meet a the needs of users and are so good they want to use it, there is a role for mandates. They key appears to be getting the level of the mandate right. 
+While the aim should always be to design platforms that clearly meet a the needs of users and are so good they want to use it, there is a role for mandates. They key appears to be getting the level of the mandate right. 
 
 At Google, for example, things that are mandated are really high-level, rather than day-to-day - everything rolls-up to a higher objective.[^1] And Estonia didn't mandate X-Road, they mandated the principle of 'tell us once' (and only once X-Road had proved itself).
 

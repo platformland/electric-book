@@ -1,6 +1,6 @@
 # Data infrastructure, APIs and open standards
 
-WIth legacy systems, data gets shared and duplicated. In a platform ecosystem data is accessed as needed, via APIs using agreed open-standards. Data, rather than being held in multiple places and multiple formats, is stored in canonical registers.
+With legacy systems, data gets shared and duplicated. In a platform ecosystem data is accessed as needed, via APIs using agreed open-standards. Data, rather than being held in multiple places and multiple formats, is stored in canonical registers.
 
 ## 1. Create canonical registers of data and manage them on behalf of multiple services
 
