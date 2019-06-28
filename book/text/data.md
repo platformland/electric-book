@@ -1,6 +1,6 @@
 # Data infrastructure, APIs and open standards
 
-WIth legacy systems, data gets shared and duplicated. In a platform ecosystem data is accessed as needed, via APIs using agreed open-standards. Data, rather than being held in multiple places and multiple formats, is stored in canonical registers.
+With legacy systems, data gets shared and duplicated. In a platform ecosystem data is accessed as needed, via APIs using agreed open-standards. Data, rather than being held in multiple places and multiple formats, is stored in canonical registers.
 
 ## 1. Create canonical registers of data and manage them on behalf of multiple services
 
@@ -12,26 +12,29 @@ Identify and actively develop registers, ensuring that they have clear custodian
 
 ## 2. Use open, emergent processes to agree open-standards
 
-Open standards (with stable identifiers) mean that different teams can be confident that they are speaking the same language, and the designers of public facing services can build on top of reliable, predictable data.
+Open standards mean that different teams can be confident that they are speaking the same language, and the designers of public facing services can build on top of reliable, predictable data.
 
-The process of agreeing standards need not be onerous. 
-Large-scale, standardization efforts outside of government show what is possible, from OpenStreetMap to the Fast Healthcare Interoperability Resource specification, and Internet Engineering Task Force. Each effort favours progress, working implementations, public evolution and concrete use cases over perfection and completeness.
+The process of agreeing standards need not be onerous. Large-scale, standardization efforts outside of government show what is possible, from OpenStreetMap to the Fast Healthcare Interoperability Resource specification, and Internet Engineering Task Force. Each effort favours progress, working implementations, public evolution and concrete use cases over perfection and completeness.
 
 In the UK, the Cabinet Office solicits suggestions for the adoption of existing open standards via GitHub.[^2] Businesses, citizens or civil servants can suggest areas that may benefit from the adoption of standards. There is then an open process for the suggestion and adoption of open standards.
 
+Create a process for agreeing and adopting standards. Aim to keep it simple and flexible.
+
 ## 3. Build on APIs and create new APIs
 
-Developing a platform ecosystem requires both canonical data registers, and the business processes of government (for example, the status of a visa application) to be exposed as APIs. i.e. the data can be accessed programatically and in real-time.
+Developing a platform ecosystem requires both canonical data registers, and the business processes of government (for example, the status of a visa application) to be exposed as APIs.
 
 This will not happen by itself. It requires APIs to be prioritized by teams developing services and for space to be made for the development of shared data infrastructure.
 
 When Argentina was developing it's new digital driving licence, rather than build a single system, the National Road Safety Agency provided an API, that API was then integrated into the miArgentina app where the digital driving licence service is housed. [^3]  And when 18F developed the cross-government  FOIA.gov for managing freedom of information requests, they also provided an API for the public and agencies to use it programatically.[^4]
 
-So, if you are developing a public facing service, ask yourself "what APIs could we expose? What registers should exist to run this service? What registers and shared APIs exist that we should be using?"
+So, if you are developing a public facing service, ask yourself "what APIs could we expose? What registers should exist to run this service? What registers and shared APIs already exist that we should be using?"
 
-## 4. Provide bulk downloads in addition to APIs
+## 4. Provide bulk downloads for open-data in addition to APIs
 
-For open-data, provide the ability to download bulk datasets in addition to APIs. Work to understand the needs of non-developers (for example statisticians, academics and data scientists).
+Not everyone who wants to make use of open-data from a register will wish to do so via an API. For example, a statistician or journalist may want to use it in a spreadsheet package.
+
+Provide the ability to download open-data in bulk, in addition to via APIs. Work to understand the needs of non-developers (for example statisticians, academics and data scientists).
 
 > ### Example: Digital driving licences in Argentina
 > 
@@ -51,4 +54,3 @@ For open-data, provide the ability to download bulk datasets in addition to APIs
 [^3]:   Mike Bracken, “Argentina just made driving licences digital”, Public Digital blog, 12th February 2019, [https://public.digital/2019/02/12/argentina-just-made-driving-licences-digital/](https://public.digital/2019/02/12/argentina-just-made-driving-licences-digital/)
 
 [^4]:   U.S. Department of Justice, "Developer resources", [https://www.foia.gov/developer/](https://www.foia.gov/developer/). Retrieved 8th June 2019.
-

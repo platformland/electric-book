@@ -1,12 +1,12 @@
 # Users
 
-It Is one of the tenents of user centred design that services should be designed around the needs of users. But, platforms are building blocks, used to create many different public-facing services, so the primary users of a platform tend not to be the public themselves (the end-users of services), but rather the people and organizations who use them to _create services_ for the public. A platform might have users across different tiers of government and non-government organizations.
+It is one of the tenents of user centred design that services should be designed around the needs of users. But, platforms are building blocks, used to create many different public-facing services, so the primary users of a platform tend not to be the public themselves (the end-users of services), but rather the people and organizations who use them to _create services_ for the public. A platform might have users across different tiers of government and non-government organizations.
 
 ## 1. Think of platforms as part of many services
 
 If successful, a platform will be part of many public facing services, for example, an API for validating and geocoding addresses might be used in services that let people tax their car, find a hospital, or apply for benefits. As such, a team developing a platform may have only a limited relationship with the end-users of those services, and the public will experience the platform as part of a wider service, not in isolation.
 
-This 'one-to-many' nature of platforms also means that any changes you make will affect many different types of user and many different services. This comes with a responsibility to understand the likely impacts of any changes you make and to work in an open way. The teams using your platform need to be able to anticipate changes early and ensure they work for users of their service.  
+This 'one-to-many' nature of platforms also means that any changes you make to them will affect many different types of user and many different services. This comes with a responsibility to understand the likely impacts of any changes you make and to work in an open way. The teams using your platform need to be able to anticipate changes early and ensure they work for users of their service.  
 
 Conduct joint user research with teams using your platform, so that you can understand how your platform manifests itself in different services. Work in the open and maintain good communications with your users, so you understand how they are using the platform and ensure they understand any upcoming changes.
 

@@ -1,23 +1,23 @@
 # Reuse
 
-Reusing existing open-source platforms from other governments can reduce development time. Putting wrappers around commercial commodity services can allow for the use of commercial offerings with less risk of lock-in or loss of control.
+Not everything needs to be built from scratch.
+Reusing existing platforms from other governments can reduce development time. And putting wrappers around commercial commodity services can allow for the use of commercial offerings with less risk of lock-in or loss of control.
 
 ## 1. Borrow from other governments (and celebrate it)
 
-While platform government is relatively new, there _are_ many opportunities to reuse the work of other governments. This includes both entire platforms, learnings from user research, guidance and standards.[^1]
+While government platforms are a relatively new thing, there are some opportunities to reuse the work of other governments. This includes reusing entire platforms, learnings from user research, guidance and standards.[^1]
 
-One example of this is the Digital Transformation Agency in Australia reusing the  
-UK's GOV.UK Notify messaging platform.[^2] Because the code was open-source, developers were able to quickly evaluate and set up their own implementation.[^3] Another example is the reuse of analytics.gov by city and state governments across the US.[^4]  
+One example of this is the Digital Transformation Agency in Australia reusing the UK's GOV.UK Notify messaging platform.[^2] Because the code was open-source, developers were able to quickly evaluate and set up their own implementation.[^3] Another example is the reuse of analytics.gov by city and state governments across the US.[^4]  
 
-Increasingly there are projects and organizations being created with the explicit aim of fostering more of this kind of sharing, including the MOSIP identity project, and the Nordic Institute of Interoperability Solutions.
+(Increasingly there are projects and organizations being created with the explicit aim of fostering more of this kind of sharing, these include the MOSIP identity project, and the Nordic Institute of Interoperability Solutions.)
 
-During the discovery phase of a platform project, understand what other governments might have approached this problem before.
+During the discovery phase of a platform project, understand what other governments might have approached this problem before. Try contacting the teams and asking for advice.
 
 ## 2. Put wrappers around commercial, commodity components
 
-In some instances, there may be commercial commodity components available that could be used as part of a platform ecosystem. For example, cloud hosting or payments. Creating thin wrappers around these can minimize the risk of lock-in, maintain control over the user experience and enforced standards.
+In some instances, there may be commercial components available on the market that could be used as part of a platform ecosystem - for example, cloud hosting or digital payment providers. Creating thin wrappers around these can minimize the risk of lock-in, maintain control over the user experience and enforced standards.
 
-Cloud.gov is built on top of Amazon Web Services, and meets the standards set by FedRAMP (a standard approach to security governance across the US federal government).[^5]
+In the US, Cloud.gov is built on top of Amazon Web Services, and meets the standards set by FedRAMP (a standard approach to security governance across the US federal government).[^5]
 
 This approach may also open up new opportunities to manage demand and build robustness into the system. In the UK, GOV.UK Pay supports multiple payment providers and GOV.UK Notify awards contracts to multiple SMS gateways.[^6][^7]
 

@@ -1,32 +1,32 @@
 # Designing services on-top of platforms
 
-The way services get created changes in a platform ecosystem. Rather than (mostly) being built from scratch, they are assembled from common components.
+The way services get created changes in a platform ecosystem. Rather than being built from scratch, they are assembled from common components.
 
-This characteristic, in combination with a service design approach means new types of service could become possible (or at least much simpler to create): services that allow people to interact with multiple parts of government at the same time; real-time services; and services from the public, private and third sector that overlap and complement each other.
+This characteristic, used in combination with a service design approach, means new types of service could become possible (or at least much simpler to create): services that allow people to interact with multiple parts of government at the same time; real-time services; and services from the public, private and third sector that overlap and complement each other.
 
 ## 1. Design services, not policies
 
-In a platform ecosystem, designing new services largely becomes a job of joining together existing systems. With this reduced effort and reduced duplication comes the potential to save time and money. However, increased efficiency is not the most significant opportunity arising. The biggest opportunity is the potential for radically better public services. That's because it does not just become simpler and quicker to design services, it also becomes simpler to design new types of service that are designed around the needs of a user rather than the organizational structure of government.[^1] Looking around the world, we can begin to see that approach happening. 
+In a platform ecosystem, designing new services largely becomes a job of joining together existing systems. With this reduced effort and reduced duplication comes the potential to save time and money. However, increased efficiency is not the most significant opportunity arising. The biggest opportunity is the potential for radically better public services. That's because it does not just become simpler and quicker to design services, it also becomes simpler to design new types of service that are designed around the needs of a user rather than the organizational structure of government.[^1]
 
-Estonia is starting to design new services around 'life events', like having a child, that transcend the boundaries of government agencies. They can do this because of the common cross-government data infrastructure they have developed.[^2] Singapore's GovTech agency is following a similar approach and has developed a 'Moments of Life' service.[^3]
+Looking around the world, we can begin to see that approach happening.  Estonia is starting to design new services around 'life events', like having a child, that transcend the boundaries of government agencies. They can do this because of the common cross-government data infrastructure they have developed.[^2] Singapore's GovTech agency is following a similar approach and has developed a 'Moments of Life' service.[^3]
   
 The UK government Service Standard (which all new government services must meet) includes the following requirement for teams designing services to work beyond the boundaries of an individual government agency:
 
 > Work towards creating a service that solves one whole problem for users, collaborating across organizational boundaries where necessary.
 
-Also in the UK, the GOV.UK website is a single place to access government services, with the different steps needed to complete a task like 'employing someone' or 'learning to drive' organized in one place regardless of which government department a user needs to interact with.[^4]
+Also in the UK, the GOV.UK website is a single place to access government services. The different steps needed to complete a task like 'employing someone' or 'learning to drive' organized in one place regardless of which government department a user needs to interact with.[^4]
 
-Take advantage of the opportunity of platforms by rapidly prototyping and testing services to solve _whole problems_ for people. You should also look for opportunities to make end-to-end service design part of official guidance and governance processes.
+Take advantage of the opportunity of platforms by rapidly prototyping and testing services to solve _whole problems_ for people. Look for opportunities to make end-to-end service design part of official guidance and governance processes.
 
 ## 2. Think of services as built from many platforms
 
 Just as platforms are part of many services, so services are made from many platforms.
 
-A great example is the Christmas tree permitting service operated by the U.S. Forest Service that allows people to legally harvest a Christmas tree for their home from a national forest. The service is comprised of pay.gov (to take payments), login.gov (for authentication), is hosted on cloud.gov, and uses a generic permits API built by 18F.[^5] [^6]. The user interface is built using the a variant of the U.S. Web Design system.[^7]
+A great example is the Christmas tree permitting service operated by the U.S. Forest Service that allows people to legally harvest a Christmas tree for their home from a national forest. The service is comprised of pay.gov (to take payments), login.gov (for authentication), is hosted on cloud.gov, and uses a generic permits API built by 18F.[^5] [^6]. The user interface is built using the U.S. Web Design system as a base.[^7]
 
-This approach means that the team designing the service can focus on the areas that are unique to the domain they are working in, and prototype a working service much faster. But it also means that the team will not have control over the entire user journey.  
+This approach means that a team designing the service can focus on the areas that are unique to the domain they are working in, and prototype a working service much faster.
 
-Work in the open and maintain good communications with teams operating platforms, so you can ensure you understand any upcoming changes.
+The other implication is that a service team will not have control over the entire user journey. When designing services that use platforms, work in the open and maintain good communications with teams operating platforms so you can ensure you understand any upcoming changes.
 
 ## 3. Allow for multiple, overlapping services, built on a common platform
 

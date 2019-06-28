@@ -2,13 +2,11 @@
 
 Transparency, accountability and governance processes are not an end in themselves. The aim should be to make sure things are working as they should be, and that people understand what "should be" looks like.
 
-As with trust and consent systems, there are limits to what a digital service team can do in this area (for example, some responsibilities lay with elected representatives and empowered regulators).
+As with trust and consent systems, there are limits to what a digital service team can do in this area (many responsibilities will lay with elected representatives and empowered regulators).
 
 ## 1. Put accountability, recourse and transparency at the point of use
 
-Government has an obligation to help citizens understand the functioning of their country, and give them clear opportunities for recourse when things go wrong. A platform ecosystem in combination with services designed to 'just work' _could_ obfuscate how government works.
-
-This is not supposed to suggest that people have a good mental model of how government works today, but there is an obligation on teams designing platforms and services to ensure they make that understanding better, not worse. Taken as a whole, the system should actively educate people about how their democracy works, where power and accountability lie and how services are performing.
+Governments have an obligation to help citizens understand the functioning of their democracy, and give them clear opportunities for recourse when things go wrong. A platform ecosystem in combination with services designed to 'just work' could obfuscate how government works. This is not supposed to suggest that people have a brilliant mental model of how government works today, but there is an obligation on teams designing platforms and services to ensure they make that understanding better, not worse. Taken as a whole, the system should actively educate people about how their government works, where power and accountability lie and how services are performing.
 
 For each service linked to from the GOV.UK publishing platform, there is a corresponding page that explains some elements of the current performance of the service and an explanation of the underlying user need for the service.[^1] While the information is currently limited, it is easy to imagine it expanding to include data about both the real-world analytics, the data and the underlying legislation used to operate the service.
 
@@ -16,19 +14,19 @@ In New South Wales, Australia government services make use of a shared component
 
 Put information about performance and accountability at the point of use of services. Conduct user research to understand the information citizens, their representatives, or civil society organizations might need to understand how a service works and who is accountable for it.
 
-## 2. Ensure ownership and accountability of platforms is clear
+## 2. Ensure platforms have owners and registers have custodians
 
-Clear product ownership is just as important for platforms as it is for public-facing services. Even in situations where some element of a platform is outsourced, you will still need to maintain the expertise in-house to monitor and audit.
+Clear product ownership (one person who can direct the work of a team to meet the needs of users) is just as important for platforms as it is for public-facing services. Even in situations where some element of a platform is outsourced, you will still need to maintain the expertise in-house to monitor and audit.
 
-The consequences of incorrect data in a platform ecosystem are potentially higher than in legacy systems (an incorrect data item in a register could affect many services). As such, data custodianship also needs to be clear (and this may be distinct from product ownership).
+The consequences of incorrect data in a platform ecosystem are potentially higher than in legacy systems (an incorrect data item in a register could affect many services). As such, data custodianship also needs to be clear (and this may be distinct from product ownership). A data custodian is accountable for the quality and accuracy of data.
 
-Ensure that there is a product owner for each platform and service and that each register has a clear custodian responsible for data quality. In all cases, political accountability must also be clear.
+Ensure that there is a product owner for each platform and service and that each register has a clear custodian.
 
 ## 3. Decide the 'rules of the road' for non-government services
 
 For platforms that allow non-government services to be built on top of them, there may need to be clear rules about the type of services that can be built on top of them (for example, if they make use of sensitive data, or require users to understand a particular piece of information).
 
-Consider the risks of government being disintermediated and data misuse. Understand which parts of the user experience government will always need to control.
+Consider the risks of government being disintermediated and of data misuse. Understand which parts of the user experience government will always need to control.
 
 ## 4. Put users in control of the data about them
 

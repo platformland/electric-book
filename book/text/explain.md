@@ -60,6 +60,14 @@ Shared foundations mean that services can be provided by any layer of government
 
 If you designed government today, you wouldn't design it around siloed government departments.
 
+### Transparency
+
+Platforms can be designed to be inherently more transparent than today's systems.
+
+### Avoid lock-in
+
+Because platforms are modular, it will prevent us being locked-in to a single set of technology.
+
 ## 2. Show don't tell
 
 Ultimately though, there's no substitute for showing a working demo.
@@ -72,4 +80,4 @@ Ultimately though, there's no substitute for showing a working demo.
 
 [^4]:   Interview, Matthew Sheret, former Writer and Strategist Government Digital Service, 21st September 2018
 
-[^5]:   Government Digital Service, "Government as a Platform", YouTube, 9th December 2014, [https://m.youtube.com/watch?v=ZzPU6Pdw05s](https://m.youtube.com/watch?v=ZzPU6Pdw05s)     
+[^5]:   Government Digital Service, "Government as a Platform", YouTube, 9th December 2014, [https://m.youtube.com/watch?v=ZzPU6Pdw05s](https://m.youtube.com/watch?v=ZzPU6Pdw05s)

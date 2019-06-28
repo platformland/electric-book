@@ -1,6 +1,6 @@
 # Designing for self-service
 
-For a platform to serve all its potential users it needs to be usable without direct support from your team. This means designing a service that actively helps different types of users to "self-serve". A platform that is designed for self-service is one that users can find, understand what it does and start using without your intervention.
+For a platform to serve all its potential users it needs to be usable without direct support. This means designing a service that actively helps different types of users to "self-serve". A platform that is designed for self-service is one that users can find, understand what it does and start using without intervention.
 
 ## 1. Create landing pages for each platform
 
@@ -12,7 +12,7 @@ Create a public landing page for each component, API or register that lists key 
 
 ## 2. Design good documentation
 
-Well-written documentation is essential to help your users understand how to use your platform. But as with any good content, this takes time and an understanding of the needs of your users. Ensure your team has access to technical writers and tests content with users to ensure it meets their needs over time.
+Well-written documentation is essential to help your users understand how to use your platform. But as with any good content, this takes time and an understanding of the needs of your users. Ensure your team has access to technical writers and tests content with users to ensure it continues to meets their needs over time.
 
 ## 3. Go where your users are
 
@@ -26,9 +26,9 @@ Try and emulate a high-quality open-source vendor. Create and maintain packages 
 
 Commercial platforms like Twilio, Google's Cloud APIs and GoCardless let users try out the capability of their platforms. They do this by either allowing free access at low usage or providing a sandbox environment. They may also provide a manual interface to help users understand it's capabilities without writing any code.
 
-The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, also includes links to sandboxes as part of their documentation.[^10] 
+The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, includes links to sandboxes as part of their documentation.[^10] 
 
-Consider creating a manual interface or sandbox so people can use or try it without writing any code and without exposing sensitive information (for example, by using fake data). Think carefully before requiring registration or anything else that might unnecessarily slow users down.
+Create ways for people to try your platform without quickly and without exposing sensitive information (for example, by using fake data). Think carefully before requiring registration or anything else that might unnecessarily slow users down.
 
 ## 5. Understand the needs of procurement and finance
 

@@ -32,7 +32,7 @@ It also leads to a monopoly of provision - a one-to-one mapping between departme
 
 ## Platforms are changing governments
 
-Looking around the world, we can see a different approach emerging. One of cross-government platforms that are beginning to break down government silos, save money and change the types of services that can be delivered to the public. 
+Looking around the world, we can see a different approach emerging. One of cross-government platforms that are beginning to break down organizational silos, save money and change the types of services that can be delivered to the public. 
 
 For example, in the United States, the U.S. Veterans Administration has begun to build its services around APIs. These allow veterans charities and other organizations (not just government) to build public-facing services.[^3] This work is part of a federated data effort across central and state governments to build APIs and exchange data to agreed formats.[^4]
 

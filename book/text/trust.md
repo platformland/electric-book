@@ -1,26 +1,22 @@
 # Trust and consent
 
-When it comes to identity and the exchange of data, many of the requirements for the safe operation of a platform ecosystem, such as an effective and privacy digital rights framework, are beyond the gift of digital service teams. As such, please do not read this section as anything approaching a complete list. Instead, see it as a set of practical things that should be within your control.
-
-Services should be able to establish enough trust (and only enough trust) to allow their users to achieve a desired outcome. Only the minimum data should be collected and shared, and an understanding of the risks must be made part of the design and development process.
-
+When it comes to digital identity and the exchange of data many of the requirements for the safe operation of a platform ecosystem, such as an effective and legal framework for privacy and digital rights, are beyond the gift of digital service teams. As such, do not read this section as anything approaching a complete list. Instead, see it as a set of practical things that should be within your control.
 
 ## 1. Design for an identity ecosystem (not an identity system)
 
 Digital identity is often thought of in terms of a singular system - a single digital identity system to join everything together. There are risks with this approach. It potentially creates a single point of failure.[^1] It risks joining together data that are best kept separate. It also may not reflect the reality that many countries have multiple systems of ID that can be made interoperable.
 
-For example, Sweden operates multiple identity systems, including IDs issued by banks accepted for certain government services.[^2] European countries are beginning to accept each other's digital IDs as part of the eIDAS program.[^3] 
-
 Countries may operate different identity systems at a municipal and national level and people may have legitimate reasons for wanting to keep different aspects of their lives separate through different identities (for example, keeping health information separate).
+
+For example, Sweden operates multiple identity systems, including IDs issued by banks accepted for certain government services.[^2] European countries are beginning to accept each other's digital IDs as part of the eIDAS program.[^3]
 
 ## 2. Design for trust escalation (and failure)
 
-There are many services for which proving an identity is not needed at all. There are also services, or stages of services, that need different levels of trust. For example, applying and paying for a licence may require a lower level of trust than someone changing the bank their benefit payments are paid to.
+Services should be able to establish enough trust (and only enough trust) to allow their users to achieve a desired outcome.  There are many services for which proving an identity is not needed at all. There are also services, or stages of services, that need different levels of trust. For example, applying and paying for a licence may require a lower level of trust than someone changing the bank their benefit payments are paid to.
 
 Inevitably, there will be circumstances where people are unable to meet the level of trust online (or they may be unable to go online at all). As such, providing a real-world fall-back is important. In the UK, this idea has been explored through the use of a chain of high street stores for verifying paper documents.[^4]
 
 Avoid putting an identity verification step in services that don't need it. Map out the levels of trust needed for each stage of a service and integrate identity verifications accordingly. Provide real-world fall-backs and backups for when a process cannot be completed digitally.
-
 ## 3. Ask people for less data
 
 Collecting data to personalize a platform or service comes at a cost to a users time and privacy. The more data collected and held, the greater the security and privacy risk. Collect only the minimum data needed to operate a platform or service.

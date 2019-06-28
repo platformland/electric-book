@@ -44,21 +44,19 @@ For the approach to be a success, teams working in government will need to be su
 
 ## 3. Identify real-world platforms
 
-Platforms normally get talked about in terms of shared digital capabilities – things like hosting, identity or payments. As the GOV.UK Notify printing example above shows, as do commercial platforms like Grab (a broker for motorbike taxis in South East Asia), it is possible to put platform-like capabilities around physical goods and services.
+Platforms normally get talked about in terms of shared digital capabilities – things like hosting, identity or payments. As the GOV.UK Notify printing example and commercial platforms like Grab (a broker for motorbike taxis in South East Asia) show, it is possible to put platform-like capabilities around physical goods and services.
 
-Most governments operate some public-facing offices – places like tax offices or labour exchanges. Like many digital services, these only tend to offer the services related to the part of government that owns them: you can’t get help filling out a passport application at a tax office. What if local offices were seen as a shared capability for any government service that needs to talk to people face-to-face? Or a place to take cash payments for people without bank accounts?
+Most governments operate some public-facing offices – places like tax offices or labour exchanges. As with many digital services, these only tend to offer the services related to the part of government that owns them: you can’t get help filling out a passport application at a tax office. What if local offices were seen as a shared capability for any government service that needs to talk to people face-to-face? Or a place to take cash payments for people without bank accounts?
 
 Understand where there might be opportunities to build a platform around fragmented, real-world capabilities.
 
 ## 4. Get the level of abstraction right
 
-Developing a good, collective understanding of what makes a good platform is also important. A good general rule is that if a system is trying to do multiple things, or is highly customizable, it probably isn't a good platform.
+Developing a collective understanding of what makes a good platform is also important. A general rule is that if a system is trying to do multiple things, or is highly customizable, it probably isn't a good platform. Platforms generally do one thing well - for example send a message, check the status of an application, verify a fact or geocode an address - small pieces loosely joined, rather than monoliths that try to handle every edge-case or be too smart.
 
-Platforms generally do one thing well - for example send a message, check the status of an application, verify a fact or geocode an address. Small pieces loosely joined, rather than monoliths that try to handle every edge-case or be too smart.
+It's worth noting how many of the platforms on the Amazon Web Services Dashboard start with the word 'simple', and generally how the services offered by AWS, Google Cloud and Twillio and other commercial platform providers are focused on a clear task.
 
-It's worth noting how many of the platforms on the Amazon Web Services Dashboard start with the word 'simple', and generally how the services offered by AWS, Google Cloud and Twillio and other commercial platform providers are focused on a clearer simple task.
-
-Simple platforms are easier for developers to use because it is clear exactly what they do. Simple platforms also (hopefully) create less hard dependencies, making it easier for developers to replace them at a later date.
+Simple platforms are easier for developers to use because it is clear exactly what they do. Simple platforms also create less hard dependencies, making it easier for developers to replace them at a later date.
 
 > ### Example: Prison visits and the potential for a booking platform, UK
 > 

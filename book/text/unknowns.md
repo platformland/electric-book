@@ -26,6 +26,8 @@ We are used to the idea of government being organized into vertically-integrated
 
 Platforms represent a change to something more networked. Where will entirely new organizations be needed to operate platforms? In India, for example, the Goods and Services Tax Network operates APIs and other infrastructure needed to operate the national harmonized sales tax. GSTN is a non-profit company owned partly by the national and state level governments. [^12]
 
+When should platforms should be directly politically accountable via a minister or secretary? When should they be placed outside of day-to-day politics?
+
 ## What's the role of data embassies?
 
 Estonia plans to backup data and keep providing digital services in the face of a cyber attack. The solution has been to declare a rack in a data center in Luxembourg an Estonian embassy with all the protections of the Vienna Convention.[^13]
