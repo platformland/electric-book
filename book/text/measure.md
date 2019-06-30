@@ -13,7 +13,7 @@ The team developing a platform will have clear a set of needs that relate to its
 * What code libraries are being used?
 * Where are the users (central government, local government, private sector?)
 * How many distinct services and organizations are using the platform?
-* What is the service up-time?
+* What is the service up-time? (Up-time targets will likely vary depending on the type of platform).
 
 Conduct user research with your team and understand what data they need to do their job effectively.
 
