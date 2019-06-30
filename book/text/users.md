@@ -1,6 +1,6 @@
 # Users
 
-It is one of the tenents of user centred design that services should be designed around the needs of users. But, platforms are building blocks, used to create many different public-facing services, so the primary users of a platform tend not to be the public themselves (the end-users of services), but rather the people and organizations who use them to _create services_ for the public. A platform might have users across different tiers of government and non-government organizations.
+It is one of the tenets of user centred design that services should be designed around the needs of users. But, platforms are building blocks, used to create many different public-facing services, so the primary users of a platform tend not to be the public themselves (the end-users of services), but rather the people and organizations who use them to _create services_ for the public. A platform might have users across different tiers of government and non-government organizations.
 
 ## 1. Think of platforms as part of many services
 
