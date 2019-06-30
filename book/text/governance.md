@@ -42,11 +42,17 @@ Digital systems encode the law in software. This raises the question of how peop
 
 Another approach to consider is if there are opportunities to expose data that helps third parties monitor the quality of information. In the US, the Web Integrity Project is independent of government and automatically monitors for changes to federal government websites.[^5] Currently, it does this by crawling government websites, but this could be made much easier by exposing content changes via APIs.
 
-## 6. Design for verifiable use of data
+## 6. Maintain an archive of user interface changes
 
-Numerous examples around the world show that access rules and legal frameworks are not enough to limit the misuse of data. There are emerging approaches that allow for the verifiable use of data through recording access in immutable databases such as Trillian or Amazon QLDB. [^6][^7][^8][^9]
+Small design choices can have big impacts on how people access and understand services.[^6] Seeking out screen-shots of government software is also increasingly becoming a human rights monitoring activity - recent studies of China's Social Credit System and Saudi Arabia's 'Absher' have both made use of screen-shots to understand the impact on people's rights.
 
-Estonia's X-Road data exchange uses this approach to create a tamper-proof log of data accessed across the system. (Contrary to reports, X-Road does not use blockchain).[^10]
+Maintain a public archive of any changes to the user-interfaces of services (and platforms that have public-facing elements).
+
+## 7. Design for verifiable use of data
+
+Numerous examples around the world show that access rules and legal frameworks are not enough to limit the misuse of data. There are emerging approaches that allow for the verifiable use of data through recording access in immutable databases such as Trillian or Amazon QLDB. [^7][^8][^9][^10]
+
+Estonia's X-Road data exchange uses this approach to create a tamper-proof log of data accessed across the system. (Contrary to reports, X-Road does not use blockchain).[^11]
 
 Don't just rely on access controls to limit the use of data.
 
@@ -71,12 +77,15 @@ Don't just rely on access controls to limit the use of data.
 
 [^5]:   "Web Integrity Project", [https://sunlightfoundation.com/web-integrity-project/](https://sunlightfoundation.com/web-integrity-project/). Retrieved 26th June 2019.
 
-[^6]:   Open Data Institute / Register Dynamics, "Putting the trust in data trusts", 14th April 2019, [https://www.register-dynamics.co.uk/data-trusts/index.html](https://www.register-dynamics.co.uk/data-trusts/index.html)
+[^6]:   As immigration solicitor, Jonathan Kingham, notes in this article on the digitization of Brexit era immigration systems in the UK:
+  "Unlike with Rules and legislation changes, there was little opportunity to scrutinise the detail of what are in fact significant changes to the immigration system prior to their coming into force (bar selective ‘user testing’, which is rarely transparent to all). And, as with so many tech developments, as the process or ‘app’ itself increasingly takes centre stage over the content (in this case the law) that underpins it, there are risks." 8th January 2019, "“Computer says no”: facing up to the full implications of a digitised immigration system", [https://www.freemovement.org.uk/computer-says-no-digitised-immigration-system/](https://www.freemovement.org.uk/computer-says-no-digitised-immigration-system/)
 
-[^7]:   Emily Mattiussi, "Monitoring cloud data with Trillian", IF Journal, 3rd April 2019, [https://www.projectsbyif.com/blog/monitoring-cloud-data-with-trillian/](https://www.projectsbyif.com/blog/monitoring-cloud-data-with-trillian/)
+[^7]:   Open Data Institute / Register Dynamics, "Putting the trust in data trusts", 14th April 2019, [https://www.register-dynamics.co.uk/data-trusts/index.html](https://www.register-dynamics.co.uk/data-trusts/index.html)
 
-[^8]:   "google/trillian", GitHub, [https://github.com/google/trillian](https://github.com/google/trillian). Retrieved 25th June 2019.
+[^8]:   Emily Mattiussi, "Monitoring cloud data with Trillian", IF Journal, 3rd April 2019, [https://www.projectsbyif.com/blog/monitoring-cloud-data-with-trillian/](https://www.projectsbyif.com/blog/monitoring-cloud-data-with-trillian/)
 
-[^9]:   "Amazon Quantum Ledger Database (QLDB)", [https://aws.amazon.com/qldb/](https://aws.amazon.com/qldb/). Retrieved 25th June 2019.
+[^9]:   "google/trillian", GitHub, [https://github.com/google/trillian](https://github.com/google/trillian). Retrieved 25th June 2019.
 
-[^10]:  Petteri Kivimäki, "There is no blockchain technology in the X-Road", Nordic Institute for Interoperability Solutions blog, 26th April 2019,  [https://www.niis.org/blog/2018/4/26/there-is-no-blockchain-technology-in-the-x-road](https://www.niis.org/blog/2018/4/26/there-is-no-blockchain-technology-in-the-x-road)
+[^10]:  "Amazon Quantum Ledger Database (QLDB)", [https://aws.amazon.com/qldb/](https://aws.amazon.com/qldb/). Retrieved 25th June 2019.
+
+[^11]:  Petteri Kivimäki, "There is no blockchain technology in the X-Road", Nordic Institute for Interoperability Solutions blog, 26th April 2019,  [https://www.niis.org/blog/2018/4/26/there-is-no-blockchain-technology-in-the-x-road](https://www.niis.org/blog/2018/4/26/there-is-no-blockchain-technology-in-the-x-road)

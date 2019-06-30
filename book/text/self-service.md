@@ -12,13 +12,19 @@ Create a public landing page for each component, API or register that lists key 
 
 ## 2. Design good documentation
 
-Well-written documentation is essential to help your users understand how to use your platform. But as with any good content, this takes time and an understanding of the needs of your users. Ensure your team has access to technical writers and tests content with users to ensure it continues to meets their needs over time.
+Github's 2017 Open Source Survey found that incomplete or confusing documentation was the biggest problem encountered by developers.[^8]
+
+Well-written documentation is essential to help your users understand how to use your platform.[^9] But as with any good content, this takes time and an understanding of the needs of your users.
+
+Ensure your team has access to technical writers and tests content with users to ensure it continues to meets their needs over time. Use automated tools such as Swagger to help keep documentation up to date.[^10][^11]
+
+The UK Government Digital Service maintain a template for different teams to publish technical documentation, which has use across government.[^12] Adoption of that template increased when it was itself well documented.[^13]
 
 ## 3. Go where your users are
 
 Developers and designers who are building services using your platforms will have existing tools and workflows. By understanding which package managers, languages and tools that they use, you can make it quicker and simpler for them to get started.
 
-For example, the U.S. Web Design System and the Australian Government Design System are published as Node.js packages that can be installed via the NPM package management system.[^8] [^9] This makes it simpler to use and to track updates.
+For example, the U.S. Web Design System and the Australian Government Design System are published as Node.js packages that can be installed via the NPM package management system.[^14] [^15] This makes it simpler to use and to track updates.
 
 Try and emulate a high-quality open-source vendor. Create and maintain packages in the languages your users use most, and publish code samples online.
 
@@ -26,7 +32,7 @@ Try and emulate a high-quality open-source vendor. Create and maintain packages 
 
 Commercial platforms like Twilio, Google's Cloud APIs and GoCardless let users try out the capability of their platforms. They do this by either allowing free access at low usage or providing a sandbox environment. They may also provide a manual interface to help users understand it's capabilities without writing any code.
 
-The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, includes links to sandboxes as part of their documentation.[^10] 
+The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, includes links to sandboxes as part of their documentation.[^16] 
 
 Create ways for people to try your platform without quickly and without exposing sensitive information (for example, by using fake data). Think carefully before requiring registration or anything else that might unnecessarily slow users down.
 
@@ -34,7 +40,7 @@ Create ways for people to try your platform without quickly and without exposing
 
 Designing for self-service is not just about meeting the needs of developers and designers. Working hard to make your platform easy to procure is also important.
 
-The GOV.UK Notify team spent lots of time writing Memorandums of Understanding in plain English. They also calculated that they could offer the platform to many users without charging.[^11]
+The GOV.UK Notify team spent lots of time writing Memorandums of Understanding in plain English. They also calculated that they could offer the platform to many users without charging.[^17]
 
 When planning your user research, make sure to include people responsible for procurement and finance. Map out procurement 'pain-points' and prioritise addressing them.
 
@@ -65,10 +71,22 @@ When planning your user research, make sure to include people responsible for pr
 
 [^7]:   HM Government, "GOV.UK Registers", [https://www.registers.service.gov.uk](https://www.registers.service.gov.uk). Retrieved 17th June 2019.
 
-[^8]:   "uswds (United States Web Design System)", npm, [https://www.npmjs.com/package/uswds](https://www.npmjs.com/package/uswds). Retrieved 5th June 2019.
+[^8]:   GitHub, "Open Source Survey", [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/). Retrieved 30th June 2019.
 
-[^9]:   "[uswds (United States Web Design System)](gov.au)", npm, [https://www.npmjs.com/org/gov.au](https://www.npmjs.com/org/gov.au). Retrieved 8th June 2019.
+[^9]:   HM Government, "How to document APIs", [https://www.gov.uk/guidance/writing-api-reference-documentation](https://www.gov.uk/guidance/writing-api-reference-documentation), GOV.UK 15th February 2019
 
-[^10]:  "About eSign API", [https://indiastack.org/esign/](https://indiastack.org/esign/). Retrieved 8th June 2019.
+[^10]:  "Create Great API Documentation", [https://swagger.io/solutions/api-documentation/](https://swagger.io/solutions/api-documentation/). Retrieved 30th June 2019.
 
-[^11]:  HM Government, "Pricing", [https://www.notifications.service.gov.uk/pricing](https://www.notifications.service.gov.uk/pricing). Retrieved 26th June 2019.
+[^11]:  HM Government, "Writing API reference documentation", GOV.UK, 15th February 2019, [https://www.gov.uk/guidance/writing-api-reference-documentation#generating-api-reference-from-code](https://www.gov.uk/guidance/writing-api-reference-documentation#generating-api-reference-from-code)
+
+[^12]:  alphagov/tech-docs-template, "alphagov/tech-docs-template: A template for building technical documentation with a GOV.UK style", [https://github.com/alphagov/tech-docs-template](https://github.com/alphagov/tech-docs-template). Retrieved 30th June 2019.
+
+[^13]:  Interview
+
+[^14]:  "uswds (United States Web Design System)", npm, [https://www.npmjs.com/package/uswds](https://www.npmjs.com/package/uswds). Retrieved 5th June 2019.
+
+[^15]:  "[uswds (United States Web Design System)](gov.au)", npm, [https://www.npmjs.com/org/gov.au](https://www.npmjs.com/org/gov.au). Retrieved 8th June 2019.
+
+[^16]:  "About eSign API", [https://indiastack.org/esign/](https://indiastack.org/esign/). Retrieved 8th June 2019.
+
+[^17]:  HM Government, "Pricing", [https://www.notifications.service.gov.uk/pricing](https://www.notifications.service.gov.uk/pricing). Retrieved 26th June 2019.
