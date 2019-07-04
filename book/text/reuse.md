@@ -17,11 +17,23 @@ During the discovery phase of a platform project, understand what other governme
 
 In some instances, there may be commercial components available on the market that could be used as part of a platform ecosystem - for example, cloud hosting or digital payment providers. Creating thin wrappers around these can minimize the risk of lock-in, maintain control over the user experience and enforced standards.
 
-In the US, Cloud.gov is built on top of Amazon Web Services, and meets the standards set by FedRAMP (a standard approach to security governance across the US federal government).[^5]
+In the US, to Cloud.gov is built on top of Amazon Web Services, and meets the standards set by FedRAMP (a standard approach to security governance across the US federal government).[^5]
 
 This approach may also open up new opportunities to manage demand and build robustness into the system. In the UK, GOV.UK Pay supports multiple payment providers and GOV.UK Notify awards contracts to multiple SMS gateways.[^6][^7]
 
 This is approach is unlikely to work if the components are not true commodities. Use Wardley Mapping to help understand if potential components are commodities or not.[^8]
+
+> ## \#Example: Reusing the GOV.UK Notify shared component in Australia
+> 
+> "We knew Notify had been very successful in the UK."
+> 
+> "It was good for us as the source code was all there and available for our developers to go through, and that it was designed to run on similar cloud infrastructure. That meant that when we started the Alpha of our notifications platform, we could go in and see if GOV.UK Notify was fit for purpose."
+> 
+> "It was a huge boost to getting started, but there was still work to do. The UK is single timezone based on UTC and Australia has three. We also had to change currency, financial year and phone number format to work for Australia. Then we had to slot in our design system (which was a bit harder because of our federal government system)."
+> 
+> "Reusing something like Notify fit's with our ethos: get it out early and then improve it and make it fit for what Australia needs."
+> — Felicity Hitchcock, Product Manager, Tell Us Once and Platforms, DTA
+{:.box}
 
 [^1]:   See [https://www.platformland.org/mapping/](https://www.platformland.org/mapping/) for lists of platforms, standards and design systems.
 
