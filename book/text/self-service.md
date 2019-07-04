@@ -18,7 +18,7 @@ Well-written documentation is essential to help your users understand how to use
 
 Ensure your team has access to technical writers and tests content with users to ensure it continues to meets their needs over time. Use automated tools such as Swagger to help keep documentation up to date.[^10][^11]
 
-The UK Government Digital Service maintain a template for different teams to publish technical documentation, which has use across government.[^12] Adoption of that template increased when it was itself well documented.[^13]
+The UK Government Digital Service maintain a template for different teams to publish technical documentation, which has use across government.[^12] Adoption of that template increased when it was itself, well documented.[^13]
 
 ## 3. Go where your users are
 
@@ -81,7 +81,8 @@ When planning your user research, make sure to include people responsible for pr
 
 [^12]:  alphagov/tech-docs-template, "alphagov/tech-docs-template: A template for building technical documentation with a GOV.UK style", [https://github.com/alphagov/tech-docs-template](https://github.com/alphagov/tech-docs-template). Retrieved 30th June 2019.
 
-[^13]:  Interview
+[^13]:  Interview, Rosalie Marshall, Lead Technology Advisor &
+  Head of Data and API Standards, Government Digital Service
 
 [^14]:  "uswds (United States Web Design System)", npm, [https://www.npmjs.com/package/uswds](https://www.npmjs.com/package/uswds). Retrieved 5th June 2019.
 
