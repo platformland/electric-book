@@ -23,7 +23,7 @@ This approach may also open up new opportunities to manage demand and build robu
 
 This is approach is unlikely to work if the components are not true commodities. Use Wardley Mapping to help understand if potential components are commodities or not.[^8]
 
-> ## \#Example: Reusing the GOV.UK Notify shared component in Australia
+> ### Example: Reusing the GOV.UK Notify shared component in Australia
 > 
 > "We knew Notify had been very successful in the UK."
 > 
