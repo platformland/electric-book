@@ -1,6 +1,6 @@
 # Users
 
-It is one of the tenets of user centred design that services should be designed around the needs of users. But, platforms are building blocks, used to create many different public-facing services, so the primary users of a platform tend not to be the public themselves (the end-users of services), but rather the people and organizations who use them to _create services_ for the public. A platform might have users across different tiers of government and non-government organizations.
+It is one of the tenets of user centred design that services should be designed around the needs of users. Platforms are building blocks, used to create many different public-facing services, so the primary users of a platform tend not to be the public themselves (the end-users of services), but rather the people and organizations who use them to _create services_ for the public. A platform might have users across different tiers of government and non-government organizations.
 
 ## 1. Think of platforms as part of many services
 
@@ -19,7 +19,7 @@ Because shared components, APIs, registers and identity systems are building blo
 * **Procurement managers** who need to understand any contractual or financial arrangements.
 * **Administrators** who need to manage the use of the platform, view usage reports or changing their settings.
 * **The team developing the platform** who will need to understand how other users are using the platform.
-* **The general public** and their representatives who want to understand how you are spending their money and managing public data.
+* **The general public** (and their proxies, such as journalists, charities or elected representatives) who want to understand how you are spending their money and managing public data.
 * **Politicians or senior officials** who might have statutory responsibility for your platform or the services using it.
 
 You should identify people and organizations who might use your platform, and understand their needs (remembering that they may not work in government at all and may work in non-technical roles such as procurement).
@@ -32,13 +32,9 @@ Looking around the world, government platforms tend to have users in one of thre
 2. Government-wide - used across central, municipal and regional government.
 3. Society-wide - for example, in addition to use in government, a platform is also used in banking, or by third sector organizations and commercial companies.
 
-We can see this if we look at the identity and authentication platforms from the US, UK and India.
+To take one example, we can see this pattern if we look at the identity and authentication platforms from the US, UK and India. Login.gov provides a way to add single-sign-on to digital services, but is limited to US federal agencies.[^1] GOV.UK Verify provides a similar service (albeit with additional levels of identity verification and multiple identity providers) for central government in the UK, but there have also been trials to use it in local government too.[^2] [^3] While in India, the Aadhaar identity platform is used well beyond government services for people to open bank accounts (and not without controversy). [^4]
 
-Login.gov provides a way to add single-sign-on to digital services, but is limited to US federal agencies.[^1] GOV.UK Verify provides a similar service (albeit with additional levels of identity verification and multiple identity providers) for central government in the UK, but there have also been trials to use it in local government too.[^2] [^3] While in India, the Aadhaar identity platform is used well beyond government services for people to open bank accounts (and not without controversy). [^4]
-
-It is important not to take away from this that ‘the broader the usage the better the platform'. There may be very good reasons for focusing on a subset of institutions early on. There may also be circumstances where a single society-wide platform has too many significant risks associated with it. (Identity is indeed one area where a single, centralized system might be undesirable!)
-
-The key thing to understand is that this is a strategic decision that can be made, and one that can change over time. Who your users are will change too.
+It is important not to take away from this that ‘the broader the usage the better the platform'. There may be very good reasons for focusing on a subset of institutions early on. There may also be circumstances where a single society-wide platform has too many significant risks associated with it. (Identity is indeed one area where a single, centralized system might be undesirable!) The key thing to understand is that this is a strategic decision that can be made, and one that can change over time. Who your users are will change too.
 
 > ### Example: Identifying users of Government as a Platform in the UK
 > 

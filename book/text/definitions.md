@@ -18,7 +18,7 @@ The term 'Government as a Platform' is used to refer to the whole ecosystem of s
 
 ##### Shared APIs
 
-Shared APIs expose the business logic of government – for example calculating a benefit payment or checking the status of an application.
+Shared APIs expose the business logic of government, for example, calculating a benefit payment or checking the status of an application. They are referred to as "shared" to indicate that they are available for use beyond the agency that developed them.
 
 ##### Platforms
 

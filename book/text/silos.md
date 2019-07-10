@@ -2,7 +2,7 @@
 
 While some platforms and tools may be centrally created and operated, others may emerge from a particular project, or be collaboratively developed between different parts of government.
 
-Achieving this can be challenging in a world where government projects and agencies are accustomed to having control over everything within their policy domain, while often having little control over that which is adjacent. The dominance of a "not invented here" culture could render moot the work done by platforms teams.
+Achieving this can be challenging in a world where government projects and agencies are accustomed to having control over everything within their policy domain, while often having little control over that which is adjacent. The dominance of a "not invented here" culture could render moot the work done by platform teams.
 
 By fostering a culture where teams are encouraged to think about users beyond their own domain, and by investing in shared tools, these silos can begin to breakdown.
 
@@ -12,30 +12,26 @@ If teams can't find each other's work, the chances of them working together are 
 
 Google, for example, has a single version control system for its code, which thousands of engineers across the organization have access to. It enables them to find, reuse and improve existing components.[^1] Estonia and the USA both emulated this, with publicly searchable repositories of source-code.[^2][^3]
 
-Shared project backlogs, such as those operated by the British Columbia Design System allow anyone with an interest to suggest an improvement. [^4]. The Federalist publishing platform maintained by 18F allows anyone to submit issues via github and has a public chat room for users to ask questions.[^5] The Pipeline project in the UK, lets different local governments share the projects they are working on and solicit for collaborators. [^6] While, in Italy, the project to create a national population register maintains a public forum where the 8000+ municipalities in the project can ask questions.[^7]
+Shared project backlogs, such as those operated by the British Columbia Design System allow anyone with an interest to suggest an improvement. [^4]. The Federalist publishing platform maintained by 18F allows anyone to submit issues via github and has a public chat room for users to ask questions.[^5] The Pipeline project in the UK, lets different local governments share the projects they are working on and solicit for collaborators. [^6] While, in Italy, the team leading the development of a national population register maintains a public forum where the 8000+ municipalities involved in the project can ask questions.[^7]
 
-Identify opportunities for using common, cross-government tools for things like source-control and project management. Publish code in the open, and under a suitable open license that makes reuse simple. Create a public register of projects currently in development, ideally with links to open backlogs.
+Identify opportunities for using common, cross-government tools for things like source-control, project management and messaging. Publish code in the open, and under a suitable open license that makes reuse simple. Create a public register of projects currently in development, ideally with links to open backlogs.
 
 ## 2. Foster a culture of sharing
 
-Shared tools are not enough on their own, and while publishing open-source code is necessary, it is probably not sufficient when it comes to reusing. A study of code.gov has recommended that agencies also invest in community management and ensure that the reasons for publishing code are clear to all.[^8]
+Shared tools are not enough on their own, and while publishing open-source code is necessary, it is probably not sufficient when it comes to collaborative working. The barriers that exist to prevent people from contributing to a project may be cultural rather than because of tooling.[^8] People may be time poor, lacking in confidence or permission, so you will need to work to foster a culture where teams across government think beyond their immediate domain.
 
-The barriers that exist to prevent people from contributing to a project may be cultural rather than because of tooling.[^9] People may be time poor, lacking in confidence or permission, so you will need to work to foster a culture where teams across government think beyond their immediate domain.
+Community events, like those organized by #OneTeamGov and #GovDesign, can create spaces for people to share their work and establish shared ways of working. While a study of code.gov has recommended that agencies also invest in community management and ensure that the reasons for publishing code are clear to all.[^9]
 
 Governance process and guidance also need to support (and hold to account) teams in using platforms and looking for opportunities to collaborate. The digital service standards, playbooks and assessment processes that many countries have created provide an opportunity to do this.
-
-Community events, like those organized by #OneTeamGov and #GovDesign, can create spaces for people to share their work and establish shared ways of working.
 
 Celebrate and reward people for working collaboratively across silos, be that via community events, performance reviews or encouraging them to write about their work. Ensure that the processes you create for people to use and contribute to platforms are open and inclusive.
 
 
 ## 3. Get the leadership incentives right
 
-Teams need to feel they have the permission and support to work in this way, and that means the leadership incentives need to be right. Cross-silo working is hard if managers are focused on their own domain rather than the value to the wider organization.
+Teams need to feel they have the permission and support to work in this way, and that means the leadership incentives need to be right. Cross-silo working is hard if managers are focused on their own domain rather than the value to the wider organization. For this reason, one of Amazon's leadership principles is "ownership". Managers are encouraged to "act on behalf of the entire company, beyond just their own team" and "don't sacrifice long-term value for short-term results". [^10]
 
-For this reason, one of Amazon's leadership principles is "ownership". Managers are encouraged to "act on behalf of the entire company, beyond just their own team" and "don't sacrifice long-term value for short-term results". [^10]
-
-Leaders taking a platform approach to government need to be comfortable allocating time and money to support work that could have a wider benefit, and help everyone feel it is part of their job.
+Leaders taking a platform approach to government need to be comfortable allocating time and money to support work that could have a wider benefit, and help everyone feel it is part of their job to work together.
 
 > ### Example: Building a community of contributors for the GOV.UK Design System
 > 
@@ -66,8 +62,8 @@ Leaders taking a platform approach to government need to be comfortable allocati
 
 [^7]:   Agenzia per l'Italia digitale, "Recenti ANPR - Anagrafe Nazionale argomenti - Forum Italia", [https://forum.italia.it](https://forum.italia.it/c/anpr). Retrieved 15th June 2019.
 
-[^8]:   Jake Rashbass and Mairi Robertson, "The People's Code", April 2019, [https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf ](https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf)
+[^8]:   CodeDotGov, "Always Improving: Making the Contribution to Repos Better", Medium, 7th May 2019, [https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511](https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511)
 
-[^9]:   CodeDotGov, "Always Improving: Making the Contribution to Repos Better", Medium, 7th May 2019, [https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511](https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511)
+[^9]:   Jake Rashbass and Mairi Robertson, "The People's Code", April 2019, [https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf ](https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf)
 
 [^10]:  Amazon, "Leadership Principles", [https://www.amazon.jobs/en-gb/principles](https://www.amazon.jobs/en-gb/principles). Retrieved 4th June 2019."

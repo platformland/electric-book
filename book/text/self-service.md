@@ -8,29 +8,29 @@ You can't know who all your potential users might be - they might be in another 
 
 Many digital service units are creating public landing pages for their platforms to help users discover them and understand how they work. Australia, Canada and France have public API stores that list APIs that are available to build on. [^1] [^2] [^3]  While units in the UK, USA, Italy and India have all created landing pages for their shared components, and the UK has landing pages for each register. [^4] [^5] [^6] [^7]
 
-Create a public landing page for each component, API or register that lists key information about the platform. Ensure that registers are independently discoverable from components and shared APIs, and that open-data is available to download a bulk dataset. Keep a record of questions that people are regularly asking, such as average uptime, and aim to answer them on the landing page (not hidden elsewhere on an FAQ page).
+Create a public landing page for each component, API and register that lists key information about the each platform. Ensure that registers are independently discoverable from shared APIs and components. For registers containing open-data it should also be easy to identify how to download a bulk dataset from the landing page.
+
+Keep a record of questions that people are regularly asking, such as average uptime, and aim to answer them on the landing page (not hidden elsewhere on an FAQ page).
 
 ## 2. Design good documentation
 
-Github's 2017 Open Source Survey found that incomplete or confusing documentation was the biggest problem encountered by developers.[^8]
+Well-written documentation is essential to help your users understand how to use your platform.[^8] Github's 2017 Open Source Survey found that incomplete or confusing documentation was the biggest problem encountered by developers.[^9]
 
-Well-written documentation is essential to help your users understand how to use your platform.[^9] But as with any good content, this takes time and an understanding of the needs of your users.
+As with any good content, developing good documentation takes time and an understanding of the needs of your users. The UK Government Digital Service maintain a template for different teams to publish technical documentation, which has users across government.[^10] Adoption of that template increased when it was itself, well documented.[^11]
 
-Ensure your team has access to technical writers and tests content with users to ensure it continues to meets their needs over time. Use automated tools such as Swagger to help keep documentation up to date.[^10][^11]
-
-The UK Government Digital Service maintain a template for different teams to publish technical documentation, which has use across government.[^12] Adoption of that template increased when it was itself, well documented.[^13]
+Ensure your team has access to technical writers and tests content with users to ensure it continues to meets their needs over time. Use automated tools such as Swagger to help keep documentation up to date.[^12][^13]
 
 ## 3. Go where your users are
 
-Developers and designers who are building services using your platforms will have existing tools and workflows. By understanding which package managers, languages and tools that they use, you can make it quicker and simpler for them to get started.
+Developers and designers who are building services using your platforms will have existing tools and workflows. By understanding which package managers, languages and tools they use, you can make it quicker and simpler for them to get started.
 
-For example, the U.S. Web Design System and the Australian Government Design System are published as Node.js packages that can be installed via the NPM package management system.[^14] [^15] This makes it simpler to use and to track updates.
+For example, the U.S. Web Design System and the Australian Government Design System are published as Node.js packages that can be installed via the NPM package management system.[^14] [^15] This makes them simpler to use and to track updates.
 
 Try and emulate a high-quality open-source vendor. Create and maintain packages in the languages your users use most, and publish code samples online.
 
 ## 4. Let users try it out
 
-Commercial platforms like Twilio, Google's Cloud APIs and GoCardless let users try out the capability of their platforms. They do this by either allowing free access at low usage or providing a sandbox environment. They may also provide a manual interface to help users understand it's capabilities without writing any code.
+Commercial platforms like Twilio, Google's Cloud APIs and GoCardless let users try out the capability of their platforms. They do this by either allowing free access at low usage or providing a sandbox environment.
 
 The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, includes links to sandboxes as part of their documentation.[^16] 
 
@@ -71,18 +71,18 @@ When planning your user research, make sure to include people responsible for pr
 
 [^7]:   HM Government, "GOV.UK Registers", [https://www.registers.service.gov.uk](https://www.registers.service.gov.uk). Retrieved 17th June 2019.
 
-[^8]:   GitHub, "Open Source Survey", [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/). Retrieved 30th June 2019.
+[^8]:   HM Government, "How to document APIs", [https://www.gov.uk/guidance/writing-api-reference-documentation](https://www.gov.uk/guidance/writing-api-reference-documentation), GOV.UK 15th February 2019
 
-[^9]:   HM Government, "How to document APIs", [https://www.gov.uk/guidance/writing-api-reference-documentation](https://www.gov.uk/guidance/writing-api-reference-documentation), GOV.UK 15th February 2019
+[^9]:   GitHub, "Open Source Survey", [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/). Retrieved 30th June 2019.
 
-[^10]:  "Create Great API Documentation", [https://swagger.io/solutions/api-documentation/](https://swagger.io/solutions/api-documentation/). Retrieved 30th June 2019.
+[^10]:  alphagov/tech-docs-template, "alphagov/tech-docs-template: A template for building technical documentation with a GOV.UK style", [https://github.com/alphagov/tech-docs-template](https://github.com/alphagov/tech-docs-template). Retrieved 30th June 2019.
 
-[^11]:  HM Government, "Writing API reference documentation", GOV.UK, 15th February 2019, [https://www.gov.uk/guidance/writing-api-reference-documentation#generating-api-reference-from-code](https://www.gov.uk/guidance/writing-api-reference-documentation#generating-api-reference-from-code)
-
-[^12]:  alphagov/tech-docs-template, "alphagov/tech-docs-template: A template for building technical documentation with a GOV.UK style", [https://github.com/alphagov/tech-docs-template](https://github.com/alphagov/tech-docs-template). Retrieved 30th June 2019.
-
-[^13]:  Interview, Rosalie Marshall, Lead Technology Advisor &
+[^11]:  Interview, Rosalie Marshall, Lead Technology Advisor &
   Head of Data and API Standards, Government Digital Service
+
+[^12]:  "Create Great API Documentation", [https://swagger.io/solutions/api-documentation/](https://swagger.io/solutions/api-documentation/). Retrieved 30th June 2019.
+
+[^13]:  HM Government, "Writing API reference documentation", GOV.UK, 15th February 2019, [https://www.gov.uk/guidance/writing-api-reference-documentation#generating-api-reference-from-code](https://www.gov.uk/guidance/writing-api-reference-documentation#generating-api-reference-from-code)
 
 [^14]:  "uswds (United States Web Design System)", npm, [https://www.npmjs.com/package/uswds](https://www.npmjs.com/package/uswds). Retrieved 5th June 2019.
 
@@ -91,3 +91,4 @@ When planning your user research, make sure to include people responsible for pr
 [^16]:  "About eSign API", [https://indiastack.org/esign/](https://indiastack.org/esign/). Retrieved 8th June 2019.
 
 [^17]:  HM Government, "Pricing", [https://www.notifications.service.gov.uk/pricing](https://www.notifications.service.gov.uk/pricing). Retrieved 26th June 2019.
+

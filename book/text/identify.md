@@ -1,6 +1,6 @@
 # Identifying platforms
 
-Platforms solve problems once, meeting the common needs of users, rather than addressing the same problem multiple times, in slightly different ways. Those users might be elsewhere in government, in a different tier of government or outside government altogether (for example, a private company or charity).
+Platforms solve problems once, meeting the _common_ needs of users, rather than addressing the same problem multiple times, and in slightly different ways. Those users might be elsewhere in government, in a different tier of government or outside government altogether (for example, a private company or charity).
 
 Your organization will need to prioritize three things to help it identify where there is a genuine opportunity to do this, and where the opportunity is purely superficial:
 
@@ -12,7 +12,7 @@ Your organization will need to prioritize three things to help it identify where
 
 Chances are you are already aware of lots of duplication. It might be multiple services all using different payment systems or address lookups. It might be developers from different teams creating their own login system or hosting setup. In fact, this seems to be the normal state of most organizations developing digital services.
 
-However, hoping that shared APIs, components and registers will emerge organically from this is unlikely to lead to results. For example, no shared components, APIs or registers emerged from the UK Government Digital Service's _Exemplar_ programme (which saw teams setup across government to redesign digital services).
+However, just hoping that shared APIs, components and registers will emerge organically from this is unlikely to lead to results. For example, no shared components, APIs or registers emerged from the UK Government Digital Service's _Exemplar_ programme (which saw teams setup across government to redesign digital services).
 
 There is no single approach to doing this, but approaches you might like to consider include:
 
@@ -28,7 +28,7 @@ Regardless of approach, all these activities take some time and effort, and will
 
 ## 2. Provide a path from products to platforms
 
-A less top-down approach is to ensure there are clear routes for 'point solutions' from individual products to develop into shared platforms. A point solution is something that has been developed as part of a single service, that might be useful as a more general platform for multiple services.
+A less top-down approach than identifying common needs and duplication is to ensure there are clear routes for 'point solutions' from individual products to develop into shared platforms. A point solution is something that has been developed as part of a single service, that might be useful as a more general platform for multiple services.
 
 For example, the authentication platform, Login.gov, started life as a larger project called [MyUSA](#), which aimed to provide a single account and to do list for interacting with government. The authentication part of the project was developed into login.gov by 18F and the United States Digital Service.[^6]
 
@@ -38,13 +38,11 @@ This approach is similar to that taken by many teams at commercial platform comp
 
 Within Google, setting up a new team is often off the back of what is already happening organically. Google tends to create a set of core, high-level values while allowing space to innovate. Things that are mandated are really high-level, rather than day-to-day - everything rolls-up to a higher objective.[^8]
 
-For commercial services, the 'route to market' is potentially clearer - for example, an Amazon platform can ultimately appear in the AWS dashboard alongside the company's other offerings where developers can use (and pay) for it.
-
-For the approach to be a success, teams working in government will need to be supported to generalize their point-solutions into platforms.
+For commercial services, the 'route to market' is potentially clearer - for example, an Amazon platform can ultimately appear in the AWS dashboard alongside the company's other offerings where developers can use (and pay) for it. For the approach to be a success, teams working in government will need to be supported to generalize their point-solutions into platforms.
 
 ## 3. Identify real-world platforms
 
-Platforms normally get talked about in terms of shared digital capabilities – things like hosting, identity or payments. As the GOV.UK Notify printing example and commercial platforms like Grab (a broker for motorbike taxis in South East Asia) show, it is possible to put platform-like capabilities around physical goods and services.
+Platforms normally get talked about in terms of shared digital capabilities – things like hosting, identity or payments. As the GOV.UK Notify printing example above and commercial platforms like Grab (a broker for motorbike taxis in South East Asia) and JustPark (a broker for car parking spaces in the UK) show, it is possible to put platform-like capabilities around physical goods and services.
 
 Most governments operate some public-facing offices – places like tax offices or labour exchanges. As with many digital services, these only tend to offer the services related to the part of government that owns them: you can’t get help filling out a passport application at a tax office. What if local offices were seen as a shared capability for any government service that needs to talk to people face-to-face? Or a place to take cash payments for people without bank accounts?
 
@@ -52,7 +50,7 @@ Understand where there might be opportunities to build a platform around fragmen
 
 ## 4. Get the level of abstraction right
 
-Developing a collective understanding of what makes a good platform is also important. A general rule is that if a system is trying to do multiple things, or is highly customizable, it probably isn't a good platform. Platforms generally do one thing well - for example send a message, check the status of an application, verify a fact or geocode an address - small pieces loosely joined, rather than monoliths that try to handle every edge-case or be too smart.
+Developing a collective understanding of what makes a good platform is important. A general rule is that if a system is trying to do multiple things, or is highly customizable, it probably isn't a good platform. Platforms generally do one thing well - for example send a message, check the status of an application, verify a fact or geocode an address - small pieces loosely joined, rather than monoliths that try to handle every edge-case or be too smart.
 
 It's worth noting how many of the platforms on the Amazon Web Services Dashboard start with the word 'simple', and generally how the services offered by AWS, Google Cloud and Twillio and other commercial platform providers are focused on a clear task.
 
@@ -77,11 +75,11 @@ Simple platforms are easier for developers to use because it is clear exactly wh
 
 [^2]:   Wardley Mapping is an approach to visualising the components required to deliver a service. Simon Wardley, "An introduction to Wardley (Value Chain) Mapping", bits or pieces?, 2nd February 2015, [https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
 
-[^3]:   Richard Pope, "Interview with Will Myddelton – UK Government as a Platform programme", 29th October 2018, [https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8](https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8)
+[^3]:   The Government Digital Service identified potential teams to work with  to help identify platforms from 'service assessments', which are a step in the governance process for all new digital services. Richard Pope, "Interview with Will Myddelton – UK Government as a Platform programme", 29th October 2018, [https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8](https://medium.com/platform-land/interview-with-will-myddelton-government-as-a-platform-3aff4ebcb3e8)
 
-[^4]:   Mike Bracken, "Mapping new ideas for the digital justice system", Government Digital Service Blog, 18th August 2015, [https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/](https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/)
+[^4]:   The UK Ministry of Justice created a visual map of all the activities that take place in the justice system, agnostic from the organizations who run them. Mike Bracken, "Mapping new ideas for the digital justice system", Government Digital Service Blog, 18th August 2015, [https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/](https://gds.blog.gov.uk/2015/08/18/mapping-new-ideas-for-the-digital-justice-system-2/)
 
-[^5]:   Open Data Institute, "Mapping data ecosystems", 23rd March 2018,[https://theodi.org/article/mapping-data-ecosystems/](https://theodi.org/article/mapping-data-ecosystems/)
+[^5]:   The Open Data Institute have developed a process for documenting and mapping data ecosystems. Open Data Institute, "Mapping data ecosystems", 23rd March 2018,[https://theodi.org/article/mapping-data-ecosystems/](https://theodi.org/article/mapping-data-ecosystems/)
 
 [^6]:   18F, "18F/myusa", [https://github.com/18F/myusa](https://github.com/18F/myusa). Retrieved 26th June 2019.
 

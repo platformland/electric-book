@@ -1,7 +1,7 @@
 # Acknowledgements
 
-This book was written as part of a fellowship at the Harvard Kennedy School  digitalHKS initiative. It is based on interviews with practitioners around the world and from experience of working in the UK government.
+This book was written as part of a fellowship at the Harvard Kennedy School  digitalHKS initiative.
 
-Thanks to the following people for their help:
+Thanks to the following people for their feedback and contributions:
 
-Amy Hupe, Ben Welby, Will Myddleton, Pete Herlihy, Pia Andrews, Mairi Robertson, Trilly Chatterjee, Steve Marshall, Adam Conners, Daniel Abadie, Matt Sheret, Sarah John, Sam Smith, David Eaves, Ben Mcguire, Vanessa Rhinesmith, Nicola Barker, Sam Smith, James Darling
+Adam Conners, Amy Hupe, Andrew Greenway, Ben Mcguire, Ben Welby, Daniel Abadie, David Eaves, James Darling, Mairi Robertson, Matt Sheret, Nicola Barker, Pete Herlihy, Pia Andrews, Sam Smith, Sam Smith, Sarah John, Steve Marshall, Trilly Chatterjee, Vanessa Rhinesmith, Will Myddleton , Zara Rahman
