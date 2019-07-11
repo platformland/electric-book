@@ -1,12 +1,10 @@
 # Measuring and monitoring
 
-The primary users of a platform tend not to be the public themselves, but rather the people who use them to create services for the public. Ultimately, the success of a platform will be perceived by the success of those services, not the platform itself.
-
-Platform teams need to understand both what they need to measure to operate the platform, and what their users need to provide services to the public.
+The primary users of a platform tend not to be the public themselves, but rather the people who use them to create services for the public (be it civil servants, charities or private sector companies). Ultimately, the success of a platform will be perceived by the success of those services, not the platform itself. This means platform teams need to understand what they need to measure to operate the platform, and what data their users need to provide great services to the public.
 
 ## 1. Understand what data your team needs
 
-The team developing a platform will have clear a set of needs that relate to its operation and improvement. These may include some of the following:
+A team developing a platform will have clear a set of needs that relate to the operation and improvement of that platform. These may include some of the following:
 
 * Are people self-serving? (For example, what's the ratio of meetings to users?)
 * Are people using the documentation?
@@ -25,27 +23,29 @@ Much of the data users need may be domain specific, so conduct user research wit
 
 ## 3. Measure cost-per-use (even if you don't charge)
 
-Measure cost-per-use and be transparent to users of the platform, even if they are using the platform for free. This is particularly important in case you need to pivot the funding model at some point in the future.
+The ideal is that platforms are funded centrally are operated for free to create the broadest possible public good. However, it is still important that your users understand the cost of running the platform, both so they understand the value and in case you ever need to pivot the funding model and start charging.
+
+Measure cost-per-use and be transparent to users of the platform, even if they are using the platform for free.
 
 ## 4. Publish performance data in the open
 
 Publishing performance data can help users better understand what a platform does and how it is being iterated.
 
-Italy's Team per la Trasformazione Digitale publish data about the rollout of the National Resident Population Register, including register size and the number of municipalities that have migrated to it.[^2] India's Aadhaar and Estonia's X-road both have public dashboards that show usage.[^3][^4] The UK's GOV.UK Pay publishes data about the organizations using it and the value of the payments that it has processed.[^5]
+Italy's Team per la Trasformazione Digitale publish data about the rollout of the National Resident Population Register, including register size and the number of municipalities that have migrated to it.[^2] India's Aadhaar and Estonia's X-road also have public dashboards that show usage, while the UK's GOV.UK Pay publishes data about the organizations using it and the total value of the payments that it has processed. [^3][^4][^5]
 
 Publish performance data about your platform in the open.
 
 ## 5. Prepare for unexpected user behaviour
 
-It is in the nature of a 'true' platform that you don't know exactly how or when people will use it. If someone is going to do something new with your platform, they will likely not tell you in advance. This is especially true if you have designed for self-service. 
+It is in the nature of a platform that you don't know exactly how or when people will use it. If someone is going to do something new with your platform, they will likely not tell you in advance. This is especially true if you have designed for self-service. 
 
-Understand the roadmaps of any large services making use of your platform so you can better anticipate their usage. Use analytics to understand emerging use-cases for the platform.
+Understand the roadmaps of any large services making use of your platform so you can better anticipate their usage. Use analytics to understand emerging use-cases of the platform.
 
 ## 6. Create a public system status page
 
-It is standard practice for commercial platforms to maintain a status page (often on a separate web domain) that detail the current status of the system.[^6] Many digital service units are following this practice with the UK, Australia and US (among others) maintaining status pages.[^7] [^8] [^9]
+It is standard practice for commercial platforms to maintain a status page that details the current status of the system.[^6] Many digital service units are following this practice with the UK, Australia and US (among others) maintaining status pages for their platforms.[^7] [^8] [^9]
 
-Create a public status page for your platform.
+Create a public status page for each platform and ensure users can find it.
 
 ## 7. Publish incident reports
 
@@ -55,9 +55,7 @@ Once resolved, publish incident reports detailing outages or security issues.
 
 ## 8. Use the privileged position of the platform (respectfully)
 
-Platform operators have the power to look across the platform and see how it is being used. e.g. looking for patterns in implementation that can be generalized into features or used to improve how other users use the platform.
-
-With great power comes great responsibility - there may be legitimate cases for making this essentially technically impossible (e.g. GOV.UK Verify being blind to the services that someone was using)
+Platform operators have the power to look across the platform and see how it is being used - for example identifying usage patterns that can be generalized into new features or used to improve how others use the platform. However, with great power comes great responsibility and it is essential to understand any privacy implications.
 
 > ## Example: Monitoring and tooling for Android
 > 

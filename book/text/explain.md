@@ -1,6 +1,6 @@
 # Explaining Government as a Platform
 
-Government as a Platform represents a new paradigm, not an incremental improvement. Because of this, explaining platform approaches to senior stakeholders and politicians is both critical and potentially challenging. It's critical because political sponsorship is important for such a radical change. It's hard because it may not map neatly onto today's business-cases and political cycles.
+Government as a Platform represents a new paradigm, not an incremental improvement on today's system of government. Because of this, explaining platform approaches to senior stakeholders and politicians is both critical and potentially challenging. It's critical because political sponsorship is important for such a radical change. It's hard because it may not map neatly onto today's business-cases and political cycles.
 
 ## 1. Find the metaphor that works for you
 
@@ -14,9 +14,9 @@ Rebooting India, the book that details the development of Aadhaar and other plat
 
 > "See, it is just like a railway platform. Different trains pull up at a railway platform, each with a different destination, and people get on and off depending on where they are headed. In the same way, the technology platform is a central location where various state government, institutions and citizens can gather. All government services are offered on the same platform, and citizens can enrol for all eligible services in one place."[^3]
 
-The UK Government Digital Service tried various metaphors to explain a platform approach to government (many of which are listed below), before arriving  at the concept of building blocks. [^4]
+The UK Government Digital Service tried various metaphors to explain a platform approach to government (many of which are listed below), before arriving  at the concept of building blocks: [^4]
 
-> We think there’s a simpler, easier way. The same public services, but designed and built differently. It’s an idea called “government as a platform”. It breaks things down into smaller parts, like building blocks. Each block does one job.  It’s easy to connect blocks together, and scale them up when demand increases.  If some part of the service breaks, we can fix it or upgrade it easily.  Platforms can be opened up, too, allowing third-party services to use government data.[^5]
+> "We think there’s a simpler, easier way. The same public services, but designed and built differently. It’s an idea called “government as a platform”. It breaks things down into smaller parts, like building blocks. Each block does one job.  It’s easy to connect blocks together, and scale them up when demand increases.  If some part of the service breaks, we can fix it or upgrade it easily.  Platforms can be opened up, too, allowing third-party services to use government data."[^5]
 
 Below are a few different approaches, metaphors and descriptions that may be useful when explaining the idea of platform government.
 
@@ -30,7 +30,7 @@ Government is doing X thing multiple times. That's wasting money and is confusin
 
 ### Digital infrastructure
 
-Platforms represent a shared digital infrastructure for our country. A modern government needs to approach digital infrastructure in the same way it does physical infrastructure, such as roads, or legal infrastructure, like company law.
+Platforms represent shared digital infrastructure for our country. A modern government needs to approach digital infrastructure in the same way it does physical infrastructure, such as roads, or legal infrastructure, like company law.
 
 ### A modern technology stack
 
@@ -81,4 +81,3 @@ Ultimately though, there's no substitute for showing a working demo.
 [^4]:   Interview, Matthew Sheret, former Writer and Strategist Government Digital Service, 21st September 2018
 
 [^5]:   Government Digital Service, "Government as a Platform", YouTube, 9th December 2014, [https://m.youtube.com/watch?v=ZzPU6Pdw05s](https://m.youtube.com/watch?v=ZzPU6Pdw05s)
-

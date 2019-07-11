@@ -1,29 +1,24 @@
 # Reuse
 
-Not everything needs to be built from scratch.
-Reusing existing platforms from other governments can reduce development time. And putting wrappers around commercial commodity services can allow for the use of commercial offerings with less risk of lock-in or loss of control.
+Not everything needs to be built from scratch. Reusing existing platforms from other governments can reduce development time, and putting wrappers around commercial commodity services can allow for the use of commercial offerings with less risk of lock-in or loss of control.
 
-## 1. Borrow from other governments (and celebrate it)
+## 1. Borrow from other governments
 
-While government platforms are a relatively new thing, there are some opportunities to reuse the work of other governments. This includes reusing entire platforms, learnings from user research, guidance and standards.[^1]
+While government platforms are a relatively new thing, there are opportunities to reuse the work of other governments. This includes reusing entire platforms, learnings from user research, guidance and standards.[^1]
 
 One example of this is the Digital Transformation Agency in Australia reusing the UK's GOV.UK Notify messaging platform.[^2] Because the code was open-source, developers were able to quickly evaluate and set up their own implementation.[^3] Another example is the reuse of analytics.gov by city and state governments across the US.[^4]  
-
-(Increasingly there are projects and organizations being created with the explicit aim of fostering more of this kind of sharing, these include the MOSIP identity project, and the Nordic Institute of Interoperability Solutions.)
 
 During the discovery phase of a platform project, understand what other governments might have approached this problem before. Try contacting the teams and asking for advice.
 
 ## 2. Put wrappers around commercial, commodity components
 
-In some instances, there may be commercial components available on the market that could be used as part of a platform ecosystem - for example, cloud hosting or digital payment providers. Creating thin wrappers around these can minimize the risk of lock-in, maintain control over the user experience and enforced standards.
+In some instances, there may be components available on the commercial market that could be used as part of a platform ecosystem - for example, cloud hosting or digital payment providers. Creating thin wrappers around these can minimize the risk of lock-in, maintain control over the user experience and enforced standards. For example, in the US, to cloud.gov is built on top of Amazon Web Services, and meets the standards set by FedRAMP (a standard approach to security governance across the US federal government).[^5]
 
-In the US, to Cloud.gov is built on top of Amazon Web Services, and meets the standards set by FedRAMP (a standard approach to security governance across the US federal government).[^5]
+This approach may also open up new opportunities to manage demand and increase robustness. In the UK, GOV.UK Pay supports multiple payment providers and GOV.UK Notify awards contracts to multiple SMS gateways.[^6][^7]
 
-This approach may also open up new opportunities to manage demand and build robustness into the system. In the UK, GOV.UK Pay supports multiple payment providers and GOV.UK Notify awards contracts to multiple SMS gateways.[^6][^7]
+The approach of building wrappers around commercial components will work best for those which have some of the characteristics of 'commodities' i.e. they are well-defined, stable, and can be swapped in or out as required. You can use Wardley Mapping to help understand if potential components are commodities or not.[^8]
 
-This is approach is unlikely to work if the components are not true commodities. Use Wardley Mapping to help understand if potential components are commodities or not.[^8]
-
-> ### Example: Reusing the GOV.UK Notify shared component in Australia
+> ### Example: Reusing GOV.UK Notify in Australia
 > 
 > "We knew Notify had been very successful in the UK."
 > 
