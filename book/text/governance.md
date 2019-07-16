@@ -64,7 +64,7 @@ Maintain a public archive of any changes to the user-interfaces of services (and
 
 ## 8. Design for verifiable use of data
 
-Numerous examples around the world show that access rules and legal frameworks are not enough to limit the misuse of data. There are emerging approaches that allow for the verifiable use of data through recording access in immutable databases such as Trillian or Amazon QLDB. [^10][^11][^12][^13]
+Numerous examples around the world show that access rules and legal frameworks are not enough to limit the misuse of data. There are emerging approaches that allow for the verifiable use of data through recording access in immutable databases such as Trillian or Amazon QLDB. [^10] [^11] [^12] [^13]
 
 Estonia's X-Road data exchange uses this approach to create a tamper-proof log of data accessed across the system. (Contrary to reports, X-Road does not use blockchain).[^14]
 
@@ -97,8 +97,7 @@ Don't just rely on access controls to limit the use of data.
 
 [^8]:   "Web Integrity Project", [https://sunlightfoundation.com/web-integrity-project/](https://sunlightfoundation.com/web-integrity-project/). Retrieved 26th June 2019.
 
-[^9]:   As immigration solicitor, Jonathan Kingham, notes in this article on the digitization of Brexit era immigration systems in the UK:
-  "Unlike with Rules and legislation changes, there was little opportunity to scrutinise the detail of what are in fact significant changes to the immigration system prior to their coming into force (bar selective ‘user testing’, which is rarely transparent to all). And, as with so many tech developments, as the process or ‘app’ itself increasingly takes centre stage over the content (in this case the law) that underpins it, there are risks." 8th January 2019, "“Computer says no”: facing up to the full implications of a digitised immigration system", [https://www.freemovement.org.uk/computer-says-no-digitised-immigration-system/](https://www.freemovement.org.uk/computer-says-no-digitised-immigration-system/)
+[^9]:   As immigration solicitor, Jonathan Kingham, notes in this article on the digitization of Brexit era immigration systems in the UK: "Unlike with Rules and legislation changes, there was little opportunity to scrutinise the detail of what are in fact significant changes to the immigration system prior to their coming into force (bar selective ‘user testing’, which is rarely transparent to all). And, as with so many tech developments, as the process or ‘app’ itself increasingly takes centre stage over the content (in this case the law) that underpins it, there are risks." 8th January 2019, "“Computer says no”: facing up to the full implications of a digitised immigration system", [https://www.freemovement.org.uk/computer-says-no-digitised-immigration-system/](https://www.freemovement.org.uk/computer-says-no-digitised-immigration-system/)
 
 [^10]:  Open Data Institute / Register Dynamics, "Putting the trust in data trusts", 14th April 2019, [https://www.register-dynamics.co.uk/data-trusts/index.html](https://www.register-dynamics.co.uk/data-trusts/index.html)
 

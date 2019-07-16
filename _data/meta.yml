@@ -107,7 +107,6 @@ works:
           - "trust"
           - "governance"
           - "explain"
-          - "unknowns"
         nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
           - label: "Frontmatter"
             children:
@@ -145,14 +144,12 @@ works:
             file: "measure"
           - label: "Reuse"
             file: "reuse"
-          - label: "Trust and consent"
+          - label: "Identity, trust and consent"
             file: "trust"
           - label: "Transparency, accountability and governance"
             file: "governance"
           - label: "Explaining Government as a Platform"
             file: "explain"
-          - label: "Unknowns and questions"
-            file: "unknowns"
             
          
         start-page: "0-3-contents" # At which file should users start reading?

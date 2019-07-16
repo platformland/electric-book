@@ -53,7 +53,7 @@ Understand where data held by a register or shared API sits on the open-data spe
 There can be unintended consequences when data is joined together.
 A clear example this is important comes from the UK health and immigration services. 
 
-In November 2018, the UK National Health Service finally pulled out of a controversial "memorandum of understanding" with the Home Office (which is responsible for immigration enforcement). It had granted Home Office immigration officers access to data about patients to help them trace people breaking immigration rules.[^7] The withdrawal followed objections from Public Health England and the House of Commons Health and Social Care Committee that people not seeking medical attention, or deliberately missing vaccinations for fear of data about them being shared, posed a risk to public health.[^8][^9]
+In November 2018, the UK National Health Service finally pulled out of a controversial "memorandum of understanding" with the Home Office (which is responsible for immigration enforcement). It had granted Home Office immigration officers access to data about patients to help them trace people breaking immigration rules.[^7] The withdrawal followed objections from Public Health England and the House of Commons Health and Social Care Committee that people not seeking medical attention, or deliberately missing vaccinations for fear of data about them being shared, posed a risk to public health.[^8] [^9]
 
 While this may be an extreme example, understanding such risks is critical. It is also important to be transparent to the public about when and how data is being joined together or exchanged. (There are many different design patterns available for informing users about data use, or asking for explicit consent.) [^10]
 
@@ -75,7 +75,7 @@ One example is Digilocker, part of the IndiaStack project. Digilocker is a perso
 
 Another example is the approach used by the GOV.UK ‘Share driving licence’ service. It lets users create a one-use code that a third party (for example a car-rental company) can use to check the details of a licence.[^12] This has the advantage that it clearly puts the user in control of how and when they share data about themselves.
 
-Digital proofs, in combination with apps like DigiLocker for storing and managing digital proofs, are an evolving area, with the Android platform and the W3C both actively developing approaches.[^13][^14] The important thing to consider however, is not the technology, but where the principle of putting verifiable facts in the hands of the public would be most beneficial.
+Digital proofs, in combination with apps like DigiLocker for storing and managing digital proofs, are an evolving area, with the Android platform and the W3C both actively developing approaches.[^13] [^14] The important thing to consider however, is not the technology, but where the principle of putting verifiable facts in the hands of the public would be most beneficial.
 
 [^1]:   e.g. South Korea had to reissue government IDs at huge cost after a data breach. Iain Thompson, "South Korea faces $1bn bill after hackers raid national ID database", The Register 14th October 2014, [https://www.theregister.co.uk/2014/10/14/south\_korea\_national\_identity\_system\_hacked/](https://www.theregister.co.uk/2014/10/14/south_korea_national_identity_system_hacked/)
 
@@ -97,8 +97,7 @@ Digital proofs, in combination with apps like DigiLocker for storing and managin
 
 [^10]:  IF, "Data Permissions Catalogue", [https://catalogue.projectsbyif.com](https://catalogue.projectsbyif.com). Retrieved 26th June 2019.
 
-[^11]:  National eGovernance Division
-  Ministry of Electronics & Information Technology (MeitY), "About DigiLocker", [https://digilocker.gov.in/about.php](https://digilocker.gov.in/about.php). Retrieved 5th April 2019.
+[^11]:  National eGovernance Division Ministry of Electronics & Information Technology (MeitY), "About DigiLocker", [https://digilocker.gov.in/about.php](https://digilocker.gov.in/about.php). Retrieved 5th April 2019.
 
 [^12]:  Sally Meecham, "A new way to view your driving licence info online", Government Digital Service Blog, 7th October 2014, [https://gds.blog.gov.uk/2014/10/07/a-new-way-to-view-your-driving-licence-info-online/](https://gds.blog.gov.uk/2014/10/07/a-new-way-to-view-your-driving-licence-info-online/)
 
