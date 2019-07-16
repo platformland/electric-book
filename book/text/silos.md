@@ -18,10 +18,9 @@ Identify opportunities for using common, cross-government tools for things like 
 
 ## 2. Foster a culture of sharing
 
-Shared tools are not enough on their own, and while publishing open-source code is necessary, it is probably not sufficient when it comes to collaborative working. The barriers that exist to prevent people from contributing to a project may be cultural rather than because of tooling.[^8] People may be time poor, lacking in confidence or permission, so you will need to work to foster a culture where teams across government think beyond their immediate domain.
+Shared tools are not enough on their own, and while publishing open-source code is necessary, it is probably not sufficient when it comes to collaborative working. For this reason, a recent study of code.gov has recommended that, in addition to publishing code in the open, agencies also invest in community management and ensure that the reasons for publishing code are clear to all.[^8]
 
-Community events, like those organized by #OneTeamGov and #GovDesign, can create spaces for people to share their work and establish shared ways of working. While a study of code.gov has recommended that agencies also invest in community management and ensure that the reasons for publishing code are clear to all.[^9]
-
+The barriers that exist to prevent people from contributing to a project may be cultural rather than because of tooling.[^9] People may be time poor, lacking in confidence or permission, so you will need to work to foster a culture where teams across government think beyond their immediate domain. Community events, like those organized by #OneTeamGov and #GovDesign, create spaces for people to share their work and establish shared ways of working. Both are grassroots efforts that bring people working on digital government projects from different agencies (and different countries) together.[^10][^11]
 Governance process and guidance also need to support (and hold to account) teams in using platforms and looking for opportunities to collaborate. The digital service standards, playbooks and assessment processes that many countries have created provide an opportunity to do this.
 
 Celebrate and reward people for working collaboratively across silos, be that via community events, performance reviews or encouraging them to write about their work. Ensure that the processes you create for people to use and contribute to platforms are open and inclusive.
@@ -29,7 +28,7 @@ Celebrate and reward people for working collaboratively across silos, be that vi
 
 ## 3. Get the leadership incentives right
 
-Teams need to feel they have the permission and support to work in this way, and that means the leadership incentives need to be right. Cross-silo working is hard if managers are focused on their own domain rather than the value to the wider organization. For this reason, one of Amazon's leadership principles is "ownership". Managers are encouraged to "act on behalf of the entire company, beyond just their own team" and "don't sacrifice long-term value for short-term results". [^10]
+Teams need to feel they have the permission and support to work in this way, and that means the leadership incentives need to be right. Cross-silo working is hard if managers are focused on their own domain rather than the value to the wider organization. For this reason, one of Amazon's leadership principles is "ownership". Managers are encouraged to "act on behalf of the entire company, beyond just their own team" and "don't sacrifice long-term value for short-term results". [^12]
 
 Leaders taking a platform approach to government need to be comfortable allocating time and money to support work that could have a wider benefit, and help everyone feel it is part of their job to work together.
 
@@ -62,8 +61,12 @@ Leaders taking a platform approach to government need to be comfortable allocati
 
 [^7]:   Agenzia per l'Italia digitale, "Recenti ANPR - Anagrafe Nazionale argomenti - Forum Italia", [https://forum.italia.it](https://forum.italia.it/c/anpr). Retrieved 15th June 2019.
 
-[^8]:   CodeDotGov, "Always Improving: Making the Contribution to Repos Better", Medium, 7th May 2019, [https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511](https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511)
+[^8]:   Jake Rashbass and Mairi Robertson, "The People's Code", April 2019, [https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf ](https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf)
 
-[^9]:   Jake Rashbass and Mairi Robertson, "The People's Code", April 2019, [https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf ](https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf)
+[^9]:   CodeDotGov, "Always Improving: Making the Contribution to Repos Better", Medium, 7th May 2019, [https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511](https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511)
 
-[^10]:  Amazon, "Leadership Principles", [https://www.amazon.jobs/en-gb/principles](https://www.amazon.jobs/en-gb/principles). Retrieved 4th June 2019."
+[^10]:  One Team Government, [https://www.oneteamgov.uk](https://www.oneteamgov.uk). Retrieved 5th June 2019.
+
+[^11]:  \#GovDesign, [http://gov-design.com](http://gov-design.com), Retrieved 5th June 2019.
+
+[^12]:  Amazon, "Leadership Principles", [https://www.amazon.jobs/en-gb/principles](https://www.amazon.jobs/en-gb/principles). Retrieved 4th June 2019."

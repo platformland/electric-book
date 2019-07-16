@@ -45,17 +45,13 @@ Understand the roadmaps of any large services making use of your platform so you
 
 It is standard practice for commercial platforms to maintain a status page that details the current status of the system.[^6] Many digital service units are following this practice with the UK, Australia and US (among others) maintaining status pages for their platforms.[^7] [^8] [^9]
 
-Create a public status page for each platform and ensure users can find it.
+It is also standard practice for commercial platforms to publish public incident reports detailing any outages or security issues. [^10]
 
-## 7. Publish incident reports
+Create a public status page for each platform and ensure users can find it. Once resolved, publish incident reports detailing outages or security issues.
 
-It is standard practice for commercial platforms to publish public incident reports detailing any outages or security issues. [^10] 
+## 7. Use the privileged position of the platform respectfully
 
-Once resolved, publish incident reports detailing outages or security issues.
-
-## 8. Use the privileged position of the platform (respectfully)
-
-Platform operators have the power to look across the platform and see how it is being used - for example identifying usage patterns that can be generalized into new features or used to improve how others use the platform. However, with great power comes great responsibility and it is essential to understand any privacy implications.
+Because platforms centralize, the teams operating them have the power to see how it is being used for a range of different users. This can be used to identify usage patterns that can be generalized into new features, or used to improve how others use the platform. However, with great power comes great responsibility. Understand the ethical and privacy implications of any new data analysis or collection.
 
 > ## Example: Monitoring and tooling for Android
 > 
