@@ -21,17 +21,19 @@ Because platforms are component parts of services, the success of a platform wil
 
 Much of the data users need may be domain specific, so conduct user research with them to understand their needs.
 
-## 3. Measure cost-per-use (even if you don't charge)
+## 3. Use a "show back" approach to build common understanding of cost and efficiency
 
-The ideal is that platforms are funded centrally are operated for free to create the broadest possible public good. However, it is still important that your users understand the cost of running the platform, both so they understand the value and in case you ever need to pivot the funding model and start charging.
+The ideal is that platforms are funded centrally are operated for free to create the broadest possible public good. However, it is still important that your users understand the cost and wider value of running each platform. This approach is called "show back" (as opposed to "pay back" where users are charged for use).
 
-Measure cost-per-use and be transparent to users of the platform, even if they are using the platform for free.
+If it is not possible to show back actual monetary costs, start with the percentage of use represented by different users (for example the number of API calls or transactions). The aim is to create a shared mindset of ownership and an understanding of cost.[^2]
+
+Use a "show back" approach to create a shared understanding of efficiency and cost among your users. Where possible, measure cost-per-use and be transparent to users of the platform, even if they are using the platform for free.
 
 ## 4. Publish performance data in the open
 
 Publishing performance data can help users better understand what a platform does and how it is being iterated.
 
-Italy's Team per la Trasformazione Digitale publish data about the rollout of the National Resident Population Register, including register size and the number of municipalities that have migrated to it.[^2] India's Aadhaar and Estonia's X-road also have public dashboards that show usage, while the UK's GOV.UK Pay publishes data about the organizations using it and the total value of the payments that it has processed. [^3][^4][^5]
+Italy's Team per la Trasformazione Digitale publish data about the rollout of the National Resident Population Register, including register size and the number of municipalities that have migrated to it.[^3] India's Aadhaar and Estonia's X-road also have public dashboards that show usage, while the UK's GOV.UK Pay publishes data about the organizations using it and the total value of the payments that it has processed. [^4][^5][^6]
 
 Publish performance data about your platform in the open.
 
@@ -43,9 +45,9 @@ Understand the roadmaps of any large services making use of your platform so you
 
 ## 6. Create a public system status page
 
-It is standard practice for commercial platforms to maintain a status page that details the current status of the system.[^6] Many digital service units are following this practice with the UK, Australia and US (among others) maintaining status pages for their platforms.[^7] [^8] [^9]
+It is standard practice for commercial platforms to maintain a status page that details the current status of the system.[^7] Many digital service units are following this practice with the UK, Australia and US (among others) maintaining status pages for their platforms.[^8] [^9] [^10]
 
-It is also standard practice for commercial platforms to publish public incident reports detailing any outages or security issues. [^10]
+It is also standard practice for commercial platforms to publish public incident reports detailing any outages or security issues. [^11]
 
 Create a public status page for each platform and ensure users can find it. Once resolved, publish incident reports detailing outages or security issues.
 
@@ -66,20 +68,22 @@ Because platforms centralize, the teams operating them have the power to see how
 
 [^1]:   Google, "Google Play Console", [https://developer.android.com/distribute/console](https://developer.android.com/distribute/console). Retrieved 9th June 2019.
 
-[^2]:   Team Digitale, "National Resident Population Register (ANPR) - Digital Transformation Team", [https://teamdigitale.governo.it/en/projects/anpr.htm](https://teamdigitale.governo.it/en/projects/anpr.htm). Retrieved 9th June 2019.
+[^2]:   This white paper from Amazon explains how to use measurement and transparency to create a shared understanding of cost and efficacy. Amazon, "Creating a Culture of Cost Transparency and Accountability", March 2018, [https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-transparency-accountability/introduction.html](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-transparency-accountability/introduction.html)
 
-[^3]:   UIAI, "Aadhaar Dashboard", [https://uidai.gov.in/aadhaar\_dashboard/](https://uidai.gov.in/aadhaar_dashboard/). Retrieved 9th June 2019.
+[^3]:   Team Digitale, "National Resident Population Register (ANPR) - Digital Transformation Team", [https://teamdigitale.governo.it/en/projects/anpr.htm](https://teamdigitale.governo.it/en/projects/anpr.htm). Retrieved 9th June 2019.
 
-[^4]:   "X-TEE", [https://www.x-tee.ee/factsheets/EE/#eng](https://www.x-tee.ee/factsheets/EE/#eng). Retrieved 9th June 2019.
+[^4]:   UIAI, "Aadhaar Dashboard", [https://uidai.gov.in/aadhaar\_dashboard/](https://uidai.gov.in/aadhaar_dashboard/). Retrieved 9th June 2019.
 
-[^5]:   HM Government, "Dashboard, GOV.UK Pay,  GOV.UK", [https://www.gov.uk/performance/govuk-pay](https://www.gov.uk/performance/govuk-pay). Retrieved 9th June 2019.
+[^5]:   "X-TEE", [https://www.x-tee.ee/factsheets/EE/#eng](https://www.x-tee.ee/factsheets/EE/#eng). Retrieved 9th June 2019.
 
-[^6]:   For examples see: [https://status.twilio.com](https://status.twilio.com), [https://www.gocardless-status.com](https://www.gocardless-status.com), [https://status.aws.amazon.com](https://status.aws.amazon.com) and [https://status.stripe.com](https://status.stripe.com)
+[^6]:   HM Government, "Dashboard, GOV.UK Pay,  GOV.UK", [https://www.gov.uk/performance/govuk-pay](https://www.gov.uk/performance/govuk-pay). Retrieved 9th June 2019.
 
-[^7]:   "GOV.UK Pay Status", [https://payments.statuspage.io](https://payments.statuspage.io). Retrieved 9th June 2019.
+[^7]:   For examples see: [https://status.twilio.com](https://status.twilio.com), [https://www.gocardless-status.com](https://www.gocardless-status.com), [https://status.aws.amazon.com](https://status.aws.amazon.com) and [https://status.stripe.com](https://status.stripe.com)
 
-[^8]:   "cloud.gov.au Status", [https://status.cloud.gov.au](https://status.cloud.gov.au). Retrieved 9th June 2019.
+[^8]:   "GOV.UK Pay Status", [https://payments.statuspage.io](https://payments.statuspage.io). Retrieved 9th June 2019.
 
-[^9]:   "cloud.gov Status", [https://cloudgov.statuspage.io](https://cloudgov.statuspage.io). Retrieved 9th June 2019.
+[^9]:   "cloud.gov.au Status", [https://status.cloud.gov.au](https://status.cloud.gov.au). Retrieved 9th June 2019.
 
-[^10]:  See [https://aws.amazon.com/message/41926/](https://aws.amazon.com/message/41926/) and [https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/](https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/) for examples "
+[^10]:  "cloud.gov Status", [https://cloudgov.statuspage.io](https://cloudgov.statuspage.io). Retrieved 9th June 2019.
+
+[^11]:  See [https://aws.amazon.com/message/41926/](https://aws.amazon.com/message/41926/) and [https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/](https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/) for examples "
