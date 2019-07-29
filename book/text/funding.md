@@ -8,13 +8,15 @@ Bugs are a fact of life, as are malicious attacks. It’s also a side effect of 
 
 These teams do not need to be large, but they do need to be invested in the long-term health of the platform. Android, for example, has a small, very senior team. The lead developer for the Android platform, which powers 2.5 billion active devices worldwide, has a few dozen people on her team. The core framework team is an even smaller group of people, and many of them have been there since the beginning.[^1]
 
-## 2. Fund teams for the long-term
+## 2. Fund teams for the long-term (but start incrementally)
 
-Funding platforms on a short-term basis is at odds with the idea of shared infrastructure (who would build on top of a platform if they didn't know if it was going to be about in a year?) It also makes the retention of the team needed to operate and continuously improve a platform harder.
+Funding platforms on a short-term basis is at odds with the idea of shared infrastructure (who would build on top of an established platform if they didn't know if it was going to be re-funded each year?) It also makes the retention of the team needed to operate and continuously improve a platform harder.
 
 Cost-recovery based funding is also not easily compatible with the development of platforms for the simple fact that, because the cost-per-transaction decreases as the user base increases, early users are saddled with higher costs.
 
 For governments used to modes of funding not suited to platforms this may represent a significant change both practically and culturally. But it's important to get it right. If the funding processes within your organization restrict you to only seeking funding on a short-term or cost-recovery basis, see if it is possible to discuss the benefits of a platform approach with commissioners, finance and approvals teams.  Work with them on how to create longer-term business cases better suited to the sustainable development of platforms.
+
+This does not mean that each platform needs multi-year funding from day one - teams should be supported with funding models that allow them to prove the value over time.
 
 ## 3. Understand any legal constraints on funding models
 
