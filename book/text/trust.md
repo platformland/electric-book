@@ -6,7 +6,7 @@ When it comes to digital identity and the exchange of data between organizations
 
 Digital identity is often thought of in terms of a singular system - a single digital identity system to join everything together. However, there are several risks with this approach.
 
-It potentially creates a single point of failure and it risks joining together data sets that are best kept separate. The cost (both to privacy and in financially) of single system being compromised is higher.[^1]
+It potentially creates a single point of failure and it risks joining together data sets that are best kept separate. The cost (both to privacy and financially) of a single system being compromised is higher.[^1]
 
 It may also not reflect the reality that many countries have multiple de facto systems of ID - a country may operate different identity systems at a municipal and national level. For example, Sweden operates multiple identity systems, including IDs issued by banks accepted for certain government services.[^2] European countries are beginning to accept each other's digital IDs as part of the eIDAS program.[^3]
 
