@@ -16,7 +16,7 @@ The UK government Service Standard (which all new government services must meet)
 
 > "Work towards creating a service that solves one whole problem for users, collaborating across organizational boundaries where necessary"[^4]
 
-Also in the UK, the different steps needed to complete a task like 'employing someone' or 'learning to drive' organized in one place on the GOV.UK website, regardless of which government agency a user has to interact with.[^5]
+Also in the UK, the different steps needed to complete a task like 'employing someone' or 'learning to drive' are organized in one place on the GOV.UK website, regardless of which government agency a user has to interact with.[^5]
 
 Take advantage of the opportunity of platforms design services to solve _whole problems_ for people. Look for opportunities to make end-to-end service design part of official guidance and governance processes.
 
