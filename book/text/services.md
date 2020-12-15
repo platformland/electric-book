@@ -64,7 +64,7 @@ Rather than placing the burden on users, look for opportunities to use APIs and 
 
 > ### Example: Building U.S. Forest Service Christmas tree permits service on-top of platforms
 > 
-> The Christmas tree permitting service operated by the U.S. Forest Service lets people to legally harvest a Christmas tree for their home from a national forest. It's built on top off several platforms, including pay.gov and cloud.gov.
+> The Christmas tree permitting service operated by the U.S. Forest Service lets people legally harvest a Christmas tree for their home from a national forest. It's built on top off several platforms, including pay.gov and cloud.gov.
 > 
 > "Before Open Forest, there was no online purchasing option for these permits, limiting the public to buying permits at mostly remote USFS district offices or sometimes from local vendors during weekday business hours. From launch to the the end of the holiday season, Open Forest sold nearly 5,000 permits across the four pilot forests."
 > 
