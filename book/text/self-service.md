@@ -34,7 +34,7 @@ Commercial platforms like Twilio, Google's Cloud APIs and GoCardless let users t
 
 The eSign component, which is part of IndiaStack and allows users to integrate digitally signed documents into their services, includes links to sandboxes as part of their documentation.[^16] 
 
-Create ways for people to try your platform without quickly and without exposing sensitive information (for example, by using fake data). Think carefully before requiring registration or anything else that might unnecessarily slow users down.
+Create ways for people to try your platform quickly and without exposing sensitive information (for example, by using fake data). Think carefully before requiring registration or anything else that might unnecessarily slow users down.
 
 ## 5. Understand the needs of procurement and finance
 
